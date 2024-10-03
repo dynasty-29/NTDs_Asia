@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy 
+plotly.express 
+matplotlib
+st.set_page_config(layout="wide")
