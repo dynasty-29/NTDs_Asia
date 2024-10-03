@@ -1,0 +1,1072 @@
+Partner ID,Name,Country,City,Latitude,Longitude,Specialization
+1,"Rodriguez, Figueroa and Sanchez",India,Delhi,28.742684393213143,77.12010907901069,Diagnostics
+2,Doyle Ltd,India,Delhi,28.697160849887783,77.14849830927868,Treatment
+3,"Mcclain, Miller and Henderson",India,Delhi,28.668835421352703,77.14396953258228,Diagnostics
+4,Davis and Sons,India,Delhi,28.74721063413908,77.05916301027503,Research
+5,"Guzman, Hoffman and Baldwin",India,Delhi,28.667220352088382,77.09603277799516,Treatment
+6,"Gardner, Robinson and Lawrence",India,Delhi,28.68867408049973,77.06000514740363,Research
+7,Blake and Sons,India,Delhi,28.75269882123582,77.12314809380909,Treatment
+8,"Henderson, Ramirez and Lewis",India,Delhi,28.736664632240785,77.0648725590035,Treatment
+9,Garcia-James,India,Delhi,28.700996431146486,77.12979414151643,Treatment
+10,Abbott-Munoz,India,Delhi,28.672234182933085,77.13955831207967,Treatment
+11,Blair PLC,India,Mumbai,19.07822734784138,72.83949594169489,Treatment
+12,Dudley Group,India,Mumbai,19.047751299361604,72.87859250390021,Diagnostics
+13,Arnold Ltd,India,Mumbai,19.107013039094436,72.90628585896526,Research
+14,"Mcclure, Ward and Lee",India,Mumbai,19.08657191873185,72.88125461246855,Research
+15,Williams and Sons,India,Mumbai,19.033694998738866,72.89816777689684,Research
+16,Galloway-Wyatt,India,Mumbai,19.07038120870309,72.89773920843717,Research
+17,James Group,India,Mumbai,19.104531305502505,72.88629782875675,Research
+18,"Flowers, Martin and Kelly",India,Mumbai,19.117462465817848,72.91465864689255,Treatment
+19,"Adams, Zuniga and Wong",India,Mumbai,19.061584064291797,72.86376465055103,Research
+20,"Reid, Ferguson and Sanchez",India,Mumbai,19.113725396356575,72.84808113047654,Diagnostics
+21,Gray-Mayo,India,Mumbai,19.06080452582398,72.88505215427715,Treatment
+22,"Watts, Robinson and Nguyen",India,Mumbai,19.04879549335353,72.87805632712646,Research
+23,Perez Inc,India,Mumbai,19.07567322417547,72.90666455508888,Research
+24,Morales-Jones,India,Bangalore,12.984898618044818,77.58606175018285,Diagnostics
+25,"Walter, Edwards and Rios",India,Bangalore,12.981349651115032,77.62972919822487,Diagnostics
+26,Wilkerson-Day,India,Bangalore,12.994802538496526,77.62156396813549,Research
+27,Baker and Sons,India,Bangalore,12.933564173456748,77.57233274796195,Treatment
+28,"Hoffman, Baker and Richards",India,Bangalore,12.935575169844485,77.59448396986559,Treatment
+29,"Ross, Robinson and Bright",India,Bangalore,13.009676953576923,77.60736917874935,Treatment
+30,"Snyder, Campos and Callahan",India,Bangalore,12.987109839156977,77.61667296835674,Diagnostics
+31,Burton Ltd,India,Bangalore,12.979832082226137,77.57499398018321,Diagnostics
+32,Carlson-Cruz,India,Bangalore,12.931916848100093,77.57576438619606,Diagnostics
+33,"Ferrell, Rice and Maddox",India,Bangalore,12.958150597080413,77.6009413337511,Treatment
+34,Frazier Inc,India,Bangalore,12.999530806784179,77.55528148824953,Research
+35,"Dyer, Potter and Mack",India,Bangalore,12.984558443246756,77.61142142497704,Diagnostics
+36,Rodriguez-Graham,India,Hyderabad,17.379647017546507,78.457671821764,Diagnostics
+37,Smith-Bowen,India,Hyderabad,17.35844360938458,78.51178254963556,Research
+38,"Baker, Mason and White",India,Hyderabad,17.368160672023585,78.53361372765619,Research
+39,Harrell LLC,India,Hyderabad,17.379168768716003,78.46854302596695,Research
+40,"Romero, Gonzalez and Brooks",India,Hyderabad,17.42623970660621,78.52803208285242,Research
+41,Ryan PLC,India,Hyderabad,17.40276592815528,78.49759799868782,Research
+42,George Group,India,Hyderabad,17.373692179768238,78.50042464424526,Diagnostics
+43,Rodriguez LLC,India,Hyderabad,17.42248015268908,78.46483335094139,Treatment
+44,Allen-Allen,India,Hyderabad,17.404221487171565,78.52300822439963,Diagnostics
+45,"Arroyo, Miller and Tucker",India,Hyderabad,17.37433948958716,78.43746235090134,Research
+46,Spence PLC,India,Chennai,13.128231245211094,80.23151372369233,Research
+47,Anderson Group,India,Chennai,13.067212108418401,80.24198548843329,Diagnostics
+48,"Martin, Rose and Obrien",India,Chennai,13.06629772285301,80.25703257441094,Treatment
+49,Hickman Ltd,India,Chennai,13.127400362006666,80.26673615265938,Treatment
+50,"Harris, Collins and Carney",India,Chennai,13.086757527745606,80.31626154324468,Treatment
+51,"Brooks, Lam and Hayes",India,Chennai,13.11006469486176,80.29348272856534,Treatment
+52,Walker LLC,India,Chennai,13.078817939257116,80.28604880740446,Treatment
+53,Chapman and Sons,India,Kolkata,22.563201974379556,88.37386397500693,Treatment
+54,"Robinson, Jones and Welch",India,Kolkata,22.59894463113914,88.37511606120556,Diagnostics
+55,Jones Inc,India,Kolkata,22.524729847060264,88.3276590499989,Research
+56,Jones-Young,India,Kolkata,22.55549598941708,88.40368565002193,Treatment
+57,"Washington, Ryan and Cummings",India,Kolkata,22.543166112735268,88.40630715242841,Treatment
+58,"Johnston, Sanchez and Kennedy",India,Kolkata,22.53390575317376,88.3652758244544,Treatment
+59,Lee-Davis,India,Kolkata,22.52356128350081,88.33522246672163,Diagnostics
+60,Gomez-Jenkins,India,Pune,18.54379469521,73.82145666815889,Research
+61,"Brown, Valdez and Lucas",India,Pune,18.531949499110123,73.87713835085732,Research
+62,Powell LLC,India,Pune,18.50431000284326,73.82894086105998,Treatment
+63,Wright and Sons,India,Pune,18.481847256846805,73.86374862921119,Research
+64,"West, Henderson and Ramirez",India,Pune,18.49068876190048,73.85037214694034,Treatment
+65,Baxter Inc,India,Pune,18.512812297497803,73.86162575390198,Research
+66,Morton-Chase,India,Pune,18.49428799136076,73.83086016109664,Diagnostics
+67,Williams PLC,India,Pune,18.494153879802578,73.81308120092707,Research
+68,Novak and Sons,India,Pune,18.489895572957604,73.89369296583,Research
+69,Russell Group,India,Ahmedabad,23.069962954394967,72.57312199546395,Diagnostics
+70,Hancock Inc,India,Ahmedabad,23.03048748718944,72.58962107040999,Diagnostics
+71,Gray Group,India,Ahmedabad,22.99077328430616,72.59120570621656,Diagnostics
+72,House-Glover,India,Ahmedabad,23.040123411398593,72.5896536919096,Diagnostics
+73,Henderson-Bernard,India,Ahmedabad,23.040876270647903,72.58821029990013,Diagnostics
+74,"Stanley, Tucker and Lee",India,Jaipur,26.876198346571943,75.82324626191895,Research
+75,Novak PLC,India,Jaipur,26.906034106226773,75.81066164068511,Diagnostics
+76,"Daniels, Adkins and Brown",India,Jaipur,26.873960733905758,75.7474910162797,Research
+77,"Woods, Calhoun and Schmidt",India,Jaipur,26.94547588262051,75.7483376993575,Diagnostics
+78,Yu Inc,India,Jaipur,26.93865745931067,75.76001060250286,Treatment
+79,Jones Inc,India,Jaipur,26.903725199355563,75.77468787489755,Diagnostics
+80,"Hensley, Powell and David",India,Jaipur,26.95927382101718,75.79849617742094,Research
+81,"Sanchez, Wheeler and Harvey",India,Jaipur,26.931404251077698,75.81567897307667,Diagnostics
+82,Sandoval-Cunningham,India,Lucknow,26.85193516052325,80.94730020406804,Diagnostics
+83,Donovan-Harris,India,Lucknow,26.857007533191474,80.98218658494125,Treatment
+84,"Edwards, Baker and Anderson",India,Lucknow,26.880478591359186,80.90140291526616,Diagnostics
+85,"Evans, Stewart and Walton",India,Lucknow,26.797534446308365,80.94473976736752,Treatment
+86,Smith PLC,India,Lucknow,26.857285485639057,80.9678323395988,Diagnostics
+87,"Ferrell, Jones and Lewis",India,Lucknow,26.833557868341117,80.99372616470141,Research
+88,Anderson-Bailey,India,Lucknow,26.798473555735857,80.94252285229715,Research
+89,Suarez LLC,India,Lucknow,26.858790796333167,80.97163451645109,Treatment
+90,Moore-Bass,India,Lucknow,26.857487712430583,80.9771899523114,Treatment
+91,"Turner, Riggs and Roman",India,Lucknow,26.886296216583037,80.93313923001358,Treatment
+92,"Smith, Montoya and Evans",India,Lucknow,26.89512114036016,80.92521336962841,Diagnostics
+93,"Garcia, Humphrey and Baker",Bangladesh,Dhaka,23.792195147150313,90.40535333885228,Diagnostics
+94,Newton and Sons,Bangladesh,Dhaka,23.81906130106514,90.45605091251252,Diagnostics
+95,Campbell-Clark,Bangladesh,Dhaka,23.78263075795336,90.45691896005856,Research
+96,Harris-Walters,Bangladesh,Dhaka,23.77890699035958,90.45018559038385,Research
+97,Wagner-King,Bangladesh,Dhaka,23.84376017500354,90.42799056650027,Research
+98,Davis Group,Bangladesh,Dhaka,23.85040865427748,90.41225060674977,Research
+99,Williams-Cook,Bangladesh,Dhaka,23.830402390234465,90.3860998184849,Treatment
+100,Walsh LLC,Bangladesh,Dhaka,23.821364459314953,90.36362247395039,Research
+101,Figueroa PLC,Bangladesh,Dhaka,23.845625383198918,90.38635160126607,Treatment
+102,"Patterson, Smith and Jones",Bangladesh,Dhaka,23.807287191945097,90.36559673313891,Diagnostics
+103,"Mckee, Gardner and Davenport",Bangladesh,Chittagong,22.320731333934734,91.79457808609963,Diagnostics
+104,"Tran, Jordan and Williams",Bangladesh,Chittagong,22.392041607032763,91.73647413344683,Treatment
+105,Nolan-Flynn,Bangladesh,Chittagong,22.37511022541427,91.73524877273182,Diagnostics
+106,Nolan and Sons,Bangladesh,Chittagong,22.311298338467946,91.74434655874289,Research
+107,"Wright, Garcia and Deleon",Bangladesh,Chittagong,22.398362473950606,91.751949627456,Treatment
+108,Dickson-Brady,Bangladesh,Chittagong,22.381502209984735,91.7686636602186,Research
+109,Hancock and Sons,Bangladesh,Chittagong,22.403699392237527,91.76939637829722,Treatment
+110,Johnson-Doyle,Bangladesh,Chittagong,22.37058867062549,91.80284499730229,Treatment
+111,Patton-Jenkins,Bangladesh,Chittagong,22.349356553896236,91.81837740284537,Diagnostics
+112,"Shields, Cochran and Adams",Bangladesh,Chittagong,22.38270342788807,91.79483213168086,Research
+113,"Rodriguez, Brennan and Garrison",Bangladesh,Chittagong,22.338383791890333,91.8278900544668,Research
+114,Gonzalez Group,Bangladesh,Chittagong,22.308679015909416,91.73686563672622,Treatment
+115,Torres-Pope,Bangladesh,Khulna,22.871897310831166,89.58334273146943,Treatment
+116,Walker Ltd,Bangladesh,Khulna,22.797271774167683,89.5046367021917,Diagnostics
+117,Ross LLC,Bangladesh,Khulna,22.872942479353977,89.57426497575331,Research
+118,Rasmussen LLC,Bangladesh,Khulna,22.80281283946584,89.5210125333294,Treatment
+119,May-Ross,Bangladesh,Khulna,22.839898432673913,89.5261767553552,Research
+120,"Rivera, Johnson and Wiley",Bangladesh,Rajshahi,24.382368365365394,88.5774953210101,Research
+121,White-Estes,Bangladesh,Rajshahi,24.356879418793746,88.6154202041588,Diagnostics
+122,Johnson-Carlson,Bangladesh,Rajshahi,24.42395120856124,88.56472581064037,Research
+123,Chandler-Edwards,Bangladesh,Rajshahi,24.37323659087848,88.58070549707833,Research
+124,"Joyce, Wilson and Lam",Bangladesh,Rajshahi,24.33998767344249,88.59725121126344,Diagnostics
+125,Scott Ltd,Bangladesh,Rajshahi,24.403990811305267,88.61889119622646,Diagnostics
+126,Smith-Frost,Bangladesh,Rajshahi,24.342481936587028,88.60250584882584,Research
+127,"Mcdaniel, Bentley and Mclaughlin",Bangladesh,Rajshahi,24.412878080424935,88.60406503384901,Treatment
+128,Diaz Inc,Bangladesh,Rajshahi,24.344776539967896,88.5587114613493,Diagnostics
+129,"Mccall, Hanson and Alvarado",Bangladesh,Sylhet,24.91973546319733,91.8643595920742,Research
+130,Cortez LLC,Bangladesh,Sylhet,24.851662241177205,91.8896362119184,Diagnostics
+131,"Parker, Ortiz and Powell",Bangladesh,Sylhet,24.919886908142395,91.91579241920499,Research
+132,Spencer-Lee,Bangladesh,Sylhet,24.915466495623207,91.83812033193493,Research
+133,"Bentley, Byrd and Orr",Bangladesh,Sylhet,24.924684885029517,91.86723498341648,Research
+134,"Carroll, Sullivan and Bass",Bangladesh,Sylhet,24.9078933106833,91.91673745652616,Treatment
+135,Mitchell-Jordan,Bangladesh,Sylhet,24.868500170949698,91.8325352581313,Treatment
+136,"Lawson, Morris and Ramos",Bangladesh,Sylhet,24.84810299090273,91.88994512902647,Research
+137,"Lewis, Kennedy and Santana",Bangladesh,Sylhet,24.87688452356798,91.90525431322946,Treatment
+138,"Jackson, Miller and Robertson",Bangladesh,Sylhet,24.889494356289347,91.85816597733077,Treatment
+139,"Harvey, Davis and Crane",Bangladesh,Sylhet,24.89284897268098,91.84778173654247,Treatment
+140,Chambers and Sons,Bangladesh,Sylhet,24.897913691086455,91.91248185061266,Diagnostics
+141,Hernandez Inc,Bangladesh,Sylhet,24.9161754091027,91.91243047083468,Diagnostics
+142,Riggs PLC,Bangladesh,Sylhet,24.91322036410033,91.81976291208404,Research
+143,Gibson Ltd,Bangladesh,Sylhet,24.88405892208551,91.9039061439284,Research
+144,"Lee, Horton and Snyder",Bangladesh,Barisal,22.717666517661915,90.32052740708862,Research
+145,Hernandez Ltd,Bangladesh,Barisal,22.739236466657218,90.32516019700532,Treatment
+146,Stafford Inc,Bangladesh,Barisal,22.747644448438223,90.37870291356413,Treatment
+147,Robinson-Brock,Bangladesh,Barisal,22.73475842586444,90.39876692632863,Treatment
+148,"Holmes, Williams and Wright",Bangladesh,Barisal,22.68108580462406,90.3226047937785,Treatment
+149,Bryant Group,Bangladesh,Barisal,22.661974522054543,90.34421688302228,Research
+150,"Schmidt, Hansen and Stewart",Bangladesh,Barisal,22.713726054878503,90.37654519300499,Diagnostics
+151,Salazar-Ball,Bangladesh,Barisal,22.664976131152187,90.39983882741427,Treatment
+152,"Simmons, Meadows and Griffin",Bangladesh,Rangpur,25.791863785358803,89.29039284876542,Diagnostics
+153,Manning Group,Bangladesh,Rangpur,25.770870058185004,89.32232581338268,Treatment
+154,Green-Wright,Bangladesh,Rangpur,25.77199781537357,89.23940851617147,Treatment
+155,"Ramirez, Strickland and Washington",Bangladesh,Rangpur,25.719661515518695,89.23322692623218,Research
+156,Hill Inc,Bangladesh,Rangpur,25.736015479103372,89.25952893162193,Diagnostics
+157,"Mitchell, Nelson and Flores",Bangladesh,Rangpur,25.71057291366163,89.24500199825151,Treatment
+158,"Miller, Hernandez and Reyes",Bangladesh,Rangpur,25.696512096581305,89.2490390970385,Diagnostics
+159,Mccarthy Inc,Bangladesh,Rangpur,25.761021811866776,89.22827691696855,Research
+160,Russell-Daniels,Bangladesh,Rangpur,25.728865618996984,89.23525802707952,Diagnostics
+161,Brown-Wall,Bangladesh,Rangpur,25.701960584227585,89.27272524079565,Diagnostics
+162,Stein-Silva,Bangladesh,Rangpur,25.69440213044915,89.23857883357155,Treatment
+163,"Smith, Gilmore and Johnston",Bangladesh,Rangpur,25.73402969470608,89.25799107599477,Diagnostics
+164,Smith-Bell,Bangladesh,Rangpur,25.728485792671055,89.29764382594136,Research
+165,Castaneda-Ashley,Bangladesh,Rangpur,25.75496401959047,89.23041755036796,Treatment
+166,Medina-Navarro,Bangladesh,Comilla,23.42106424260899,91.1744297690275,Diagnostics
+167,"Hurst, Freeman and Nelson",Bangladesh,Comilla,23.48985115583215,91.22876255406118,Treatment
+168,Johnson-Rogers,Bangladesh,Comilla,23.489769597039118,91.1969778462572,Research
+169,"Yates, Ramsey and Pittman",Bangladesh,Comilla,23.4283794870423,91.1636434474406,Treatment
+170,Hooper PLC,Bangladesh,Comilla,23.501330346089656,91.14701210277983,Treatment
+171,Meadows PLC,Bangladesh,Comilla,23.48938346388617,91.15333070118011,Diagnostics
+172,"Alvarado, Miller and Patterson",Bangladesh,Comilla,23.476395699394853,91.17403278168429,Treatment
+173,White-Green,Bangladesh,Comilla,23.42499027574684,91.19821000381368,Treatment
+174,Lewis-Murphy,Bangladesh,Comilla,23.48871267250693,91.20459868237793,Diagnostics
+175,Ramirez-Bean,Bangladesh,Mymensingh,24.72896963831118,90.40645372642437,Treatment
+176,King-Miller,Bangladesh,Mymensingh,24.734392576046513,90.43719952854244,Research
+177,Curry Inc,Bangladesh,Mymensingh,24.73408601474365,90.41743508119617,Treatment
+178,Walker-Jones,Bangladesh,Mymensingh,24.792851532472508,90.44337360146565,Diagnostics
+179,"Williams, Johnson and Wright",Bangladesh,Mymensingh,24.781533079392716,90.3745421570554,Treatment
+180,Howell and Sons,Bangladesh,Mymensingh,24.763713218625302,90.4379684338789,Diagnostics
+181,Wells Inc,Bangladesh,Gazipur,24.035527783564792,90.37237130249078,Treatment
+182,"Gould, Marshall and Scott",Bangladesh,Gazipur,24.01078970253912,90.41012736714575,Treatment
+183,Jackson-Lawson,Bangladesh,Gazipur,24.010197227906513,90.43584007975699,Research
+184,"Higgins, Strickland and Martin",Bangladesh,Gazipur,24.026002001584075,90.42941365855562,Research
+185,Rodriguez-Johnson,Bangladesh,Gazipur,24.002880967940303,90.4478181435734,Diagnostics
+186,Johnston-Odonnell,Bangladesh,Gazipur,24.03377459162195,90.42782120239593,Diagnostics
+187,Sanders-Espinoza,Bangladesh,Gazipur,23.95751008770848,90.37783622173326,Diagnostics
+188,Vargas Ltd,Bangladesh,Gazipur,23.999576984991258,90.42451030270642,Diagnostics
+189,Garcia LLC,Bangladesh,Gazipur,24.00060801147366,90.41218339701092,Research
+190,"Burke, Martinez and Riggs",Bangladesh,Gazipur,24.025998545503548,90.45058448008508,Treatment
+191,Reed Group,Bangladesh,Gazipur,23.95262113010623,90.3844676659196,Treatment
+192,"Wood, Hunter and Peterson",Bangladesh,Gazipur,23.982572104251663,90.45959120860306,Treatment
+193,Short-Garcia,Indonesia,Jakarta,-6.174443868437794,106.85653720630201,Diagnostics
+194,Reid-Poole,Indonesia,Jakarta,-6.217963784055456,106.77780520272347,Treatment
+195,"Hernandez, Thompson and Boyd",Indonesia,Jakarta,-6.142104992517594,106.82797663952294,Research
+196,"Nelson, Morton and Medina",Indonesia,Jakarta,-6.208816693477947,106.83206773959292,Treatment
+197,Marshall-Petersen,Indonesia,Jakarta,-6.207715505357818,106.7940306164729,Diagnostics
+198,"Adams, Christian and Rivas",Indonesia,Jakarta,-6.133052357297527,106.80770237191173,Treatment
+199,Ramirez Group,Indonesia,Jakarta,-6.182054639613394,106.87464242334632,Research
+200,Christensen PLC,Indonesia,Jakarta,-6.224381489013837,106.86095643611174,Treatment
+201,"Barnett, Rogers and Snyder",Indonesia,Jakarta,-6.1688590782718515,106.87430404034257,Research
+202,White-Lewis,Indonesia,Jakarta,-6.18363697051273,106.8530368231816,Diagnostics
+203,Peterson-Beard,Indonesia,Jakarta,-6.1347392647224455,106.78148131537,Research
+204,"Beard, Peters and Black",Indonesia,Jakarta,-6.171634353090861,106.8468705463525,Treatment
+205,Miller Ltd,Indonesia,Jakarta,-6.1768346027368075,106.78552234843998,Treatment
+206,Freeman-Chang,Indonesia,Jakarta,-6.179735841788765,106.78914294676166,Diagnostics
+207,"Alvarez, Joseph and West",Indonesia,Surabaya,-7.293631039617524,112.71679175597485,Diagnostics
+208,Davis and Sons,Indonesia,Surabaya,-7.291289682618657,112.72390825123726,Treatment
+209,Holt-Torres,Indonesia,Surabaya,-7.251374681882013,112.79808326336355,Treatment
+210,"Wood, Tran and Cooper",Indonesia,Surabaya,-7.253753625929705,112.76585650642005,Research
+211,"Pierce, Bell and Chavez",Indonesia,Surabaya,-7.239434313581099,112.77933619864397,Diagnostics
+212,King-Martinez,Indonesia,Surabaya,-7.297985568487541,112.74827555259073,Diagnostics
+213,Stewart Ltd,Indonesia,Surabaya,-7.213886541932668,112.7460323527809,Diagnostics
+214,"Tapia, Vaughn and Lee",Indonesia,Surabaya,-7.224725926340787,112.7658672781472,Diagnostics
+215,"Washington, Hardy and Bray",Indonesia,Surabaya,-7.306507655584415,112.78461280746146,Research
+216,"Carlson, Hooper and Wall",Indonesia,Surabaya,-7.261096451169611,112.78349474996027,Diagnostics
+217,Perez-White,Indonesia,Surabaya,-7.2507550033112596,112.77482141346516,Treatment
+218,Erickson and Sons,Indonesia,Surabaya,-7.246826206167549,112.78980062815556,Research
+219,Williams-Brown,Indonesia,Surabaya,-7.287323842017129,112.74781004963909,Research
+220,Terry-Martinez,Indonesia,Bandung,-6.936678620917514,107.58700771284617,Research
+221,Garcia-Smith,Indonesia,Bandung,-6.913323523447134,107.63610102821352,Research
+222,Harrison-Alexander,Indonesia,Bandung,-6.953128478352854,107.60169134309403,Diagnostics
+223,Sheppard LLC,Indonesia,Bandung,-6.888921919626289,107.6444774027345,Diagnostics
+224,Wilson-Jones,Indonesia,Bandung,-6.966116574928213,107.66692323288464,Diagnostics
+225,Jones-Soto,Indonesia,Bandung,-6.88629414391742,107.6393817947415,Diagnostics
+226,Hernandez PLC,Indonesia,Bandung,-6.906973645308674,107.6050568565091,Research
+227,Miller-Wright,Indonesia,Bandung,-6.9671703011361155,107.63133890971532,Diagnostics
+228,"Duran, Obrien and Gibbs",Indonesia,Bandung,-6.906541245623013,107.59416467124761,Treatment
+229,Rowe Group,Indonesia,Bandung,-6.870123347949649,107.6680777393945,Research
+230,Kerr-Evans,Indonesia,Bandung,-6.909656287420597,107.63286185692073,Treatment
+231,"Branch, Torres and Oliver",Indonesia,Medan,-3.637586149132822,98.6252600775072,Treatment
+232,"Choi, Garcia and Farmer",Indonesia,Medan,-3.6091201903183427,98.7034295907905,Research
+233,"Clark, Guerrero and Moore",Indonesia,Medan,-3.611759878523028,98.69414422511275,Research
+234,Arnold and Sons,Indonesia,Medan,-3.6200954916220445,98.65271448878893,Diagnostics
+235,Ortiz Ltd,Indonesia,Medan,-3.624396944121961,98.63623225964908,Diagnostics
+236,"Harrison, Johnson and Roberts",Indonesia,Medan,-3.5881146424842623,98.69018264432943,Diagnostics
+237,Warner-Gibson,Indonesia,Medan,-3.5645342130550604,98.69109695276326,Research
+238,"Hall, Baker and Moody",Indonesia,Medan,-3.5788769174552506,98.71567570936303,Diagnostics
+239,"Guerrero, Peck and Coleman",Indonesia,Medan,-3.5846317528859553,98.66560414218704,Research
+240,"Walker, Hernandez and Baker",Indonesia,Medan,-3.6343384030909056,98.66253782560945,Treatment
+241,Jones and Sons,Indonesia,Medan,-3.641355081654599,98.70185665400321,Research
+242,Larson-Holloway,Indonesia,Medan,-3.580598116724767,98.6324428799824,Treatment
+243,Gonzales-Harrison,Indonesia,Semarang,-6.961993870915438,110.38842911340822,Research
+244,Lyons-Bender,Indonesia,Semarang,-6.940445766168356,110.42971580224805,Treatment
+245,"Fernandez, Kim and George",Indonesia,Semarang,-6.95760167942978,110.43618791750488,Research
+246,Navarro-Munoz,Indonesia,Semarang,-6.924626564344372,110.37723810440646,Diagnostics
+247,Davis Ltd,Indonesia,Semarang,-6.963109048512457,110.38292355926582,Research
+248,"Matthews, Smith and Hubbard",Indonesia,Semarang,-6.957483149463028,110.38063265652977,Diagnostics
+249,Johnston-Hines,Indonesia,Semarang,-6.952380646530286,110.4581040434977,Research
+250,Ruiz Ltd,Indonesia,Semarang,-6.955000415245469,110.3885261370875,Research
+251,Moon-White,Indonesia,Semarang,-6.937505099848127,110.38628445889849,Treatment
+252,"Graham, Olsen and Costa",Indonesia,Semarang,-6.962624871500879,110.38236879073473,Research
+253,Bailey-Cook,Indonesia,Semarang,-6.9196535742374,110.40547861790701,Diagnostics
+254,"Garcia, Martin and Jenkins",Indonesia,Palembang,-3.0316109748106395,104.75549774423425,Diagnostics
+255,Roberts-Landry,Indonesia,Palembang,-3.0042136879217063,104.73913071006821,Treatment
+256,"Johnson, Miller and King",Indonesia,Palembang,-3.01150326942459,104.79441441508739,Treatment
+257,Cordova Group,Indonesia,Palembang,-2.989673769740236,104.80102533290956,Research
+258,"Bryan, Smith and Booth",Indonesia,Palembang,-3.003830418791253,104.76629507565556,Research
+259,Gutierrez-Lopez,Indonesia,Palembang,-3.015079165635668,104.70870067422352,Diagnostics
+260,Dean-Jimenez,Indonesia,Palembang,-2.9509602098407757,104.74702063600499,Treatment
+261,Wolf-Harris,Indonesia,Palembang,-3.0336941707920957,104.7169779010895,Research
+262,"Anderson, Roberts and Gilmore",Indonesia,Palembang,-2.9792568858719672,104.77482269793548,Treatment
+263,Martinez-Dudley,Indonesia,Makassar,-5.128650707747721,119.41734409306487,Research
+264,"Lloyd, Mckinney and Collins",Indonesia,Makassar,-5.160572261782231,119.47363229272334,Research
+265,Tran Inc,Indonesia,Makassar,-5.152012332299517,119.475135336165,Research
+266,Gay Inc,Indonesia,Makassar,-5.158160950431753,119.4106463947297,Treatment
+267,Valentine-Holland,Indonesia,Makassar,-5.137614101386308,119.3829515927338,Diagnostics
+268,Jimenez Ltd,Indonesia,Makassar,-5.169448855685311,119.47053262547928,Research
+269,Hicks-Hill,Indonesia,Makassar,-5.100200764075141,119.42242764877405,Treatment
+270,Baird-Sanchez,Indonesia,Makassar,-5.165245891465486,119.43797386782879,Treatment
+271,"Thomas, Lee and Greene",Indonesia,Makassar,-5.101981501163408,119.43236586978927,Research
+272,"Suarez, Shields and Hill",Indonesia,Makassar,-5.156321789530722,119.3937122670427,Diagnostics
+273,Morgan-French,Indonesia,Makassar,-5.1142342101814435,119.47318722728238,Research
+274,Hoover-Campbell,Indonesia,Makassar,-5.184049074609561,119.46737093268106,Research
+275,Monroe-Carpenter,Indonesia,Makassar,-5.149708744604389,119.39134997456644,Diagnostics
+276,"Burns, Hernandez and Ryan",Indonesia,Makassar,-5.130994175432289,119.40864651965487,Research
+277,Cook-Hines,Indonesia,Makassar,-5.178812308163517,119.4104516331086,Research
+278,Gibson-Morris,Indonesia,Tangerang,-6.152447456442067,106.58457128604674,Diagnostics
+279,Pollard and Sons,Indonesia,Tangerang,-6.208906069724934,106.60325192598364,Treatment
+280,"Reyes, Chase and Jenkins",Indonesia,Tangerang,-6.151932906414093,106.58808625972938,Research
+281,Garner-Thornton,Indonesia,Tangerang,-6.217679724478778,106.61695190834878,Research
+282,Hughes-Alvarado,Indonesia,Tangerang,-6.14651968637935,106.6063805870817,Treatment
+283,"Pollard, Simpson and Johnson",Indonesia,Tangerang,-6.152391028939246,106.62669981579053,Diagnostics
+284,"Sanford, Rivera and Garcia",Indonesia,Tangerang,-6.137742227119925,106.6636166038078,Diagnostics
+285,Garcia-Lozano,Indonesia,Tangerang,-6.169669083909871,106.62519211790406,Treatment
+286,Bowen Group,Indonesia,Tangerang,-6.223819366303393,106.60645020143797,Research
+287,"Booker, Jones and Harrington",Indonesia,Tangerang,-6.12951643098587,106.61936071849927,Treatment
+288,Morgan-Schwartz,Indonesia,Tangerang,-6.175482833611555,106.67581735324083,Treatment
+289,"Miller, Murphy and Craig",Indonesia,Tangerang,-6.1469672279027785,106.62684908847831,Diagnostics
+290,"James, Stewart and Higgins",Indonesia,Tangerang,-6.1404676075146485,106.64944334790765,Research
+291,Brennan-Johnson,Indonesia,Denpasar,-8.687303411542228,115.17060345828993,Diagnostics
+292,Young Ltd,Indonesia,Denpasar,-8.621531991219411,115.25151579098613,Treatment
+293,Bright-Francis,Indonesia,Denpasar,-8.657389953888432,115.22403290649353,Diagnostics
+294,Good-Hodges,Indonesia,Denpasar,-8.628494514453795,115.18037305400024,Research
+295,"Brennan, Wallace and Benson",Indonesia,Denpasar,-8.639018267142225,115.20594566591892,Research
+296,Williams Inc,Indonesia,Denpasar,-8.675372218402153,115.2203860900478,Treatment
+297,Howard-Jordan,Indonesia,Yogyakarta,-7.787308764677395,110.36589465108011,Diagnostics
+298,Schmidt PLC,Indonesia,Yogyakarta,-7.83752549088837,110.4024082684688,Diagnostics
+299,"Sparks, Jackson and Miller",Indonesia,Yogyakarta,-7.801882453320108,110.39015740833091,Diagnostics
+300,Harvey-Allen,Indonesia,Yogyakarta,-7.796422359534144,110.41686831952839,Research
+301,"Thomas, Murray and King",Indonesia,Yogyakarta,-7.76435227928556,110.33755176915439,Research
+302,Estrada-Nolan,Indonesia,Yogyakarta,-7.820034143176217,110.35801552054951,Diagnostics
+303,Santana-Byrd,Indonesia,Yogyakarta,-7.823824196038968,110.38774406777165,Research
+304,Jones LLC,Indonesia,Yogyakarta,-7.808871589071349,110.41352404094792,Research
+305,"Evans, Hayden and Vaughn",Indonesia,Yogyakarta,-7.829850543233542,110.38266971657602,Research
+306,Bruce-Gonzalez,Indonesia,Yogyakarta,-7.83940857972249,110.41654498958248,Research
+307,Castaneda-Rodriguez,Indonesia,Yogyakarta,-7.765657370998366,110.41742994096678,Diagnostics
+308,Armstrong-Andrews,Philippines,Manila,14.557390026873756,120.97260270406167,Treatment
+309,"Phillips, Spence and Barrett",Philippines,Manila,14.587767291499967,120.94351484836862,Diagnostics
+310,Smith-Grimes,Philippines,Manila,14.552801797372469,121.00355668711352,Diagnostics
+311,"Beltran, Lozano and Mcgee",Philippines,Manila,14.627684404758142,120.95083889329055,Treatment
+312,Parsons-Hall,Philippines,Manila,14.57767279375124,121.01095766421778,Research
+313,Robinson-Lee,Philippines,Manila,14.59579273459876,120.96573011738701,Treatment
+314,Byrd-Le,Philippines,Manila,14.570436786957071,120.95245280333357,Diagnostics
+315,"Becker, Taylor and Davis",Philippines,Manila,14.591362178886037,120.99949356763399,Diagnostics
+316,"Lucas, Parker and Alexander",Philippines,Manila,14.629435527454957,121.02236000584476,Diagnostics
+317,"Diaz, Anderson and Browning",Philippines,Manila,14.64288360094894,120.9397172420217,Treatment
+318,Burgess-Thompson,Philippines,Manila,14.578394405057491,120.99654669961988,Research
+319,Buchanan LLC,Philippines,Manila,14.618825416492221,121.0341132536493,Diagnostics
+320,"Shaw, Nelson and Martin",Philippines,Manila,14.561793698607367,120.95558347294083,Diagnostics
+321,Coffey-Phillips,Philippines,Manila,14.647417329432727,120.97238805211579,Treatment
+322,Brock-Mcdonald,Philippines,Quezon,14.716483273299227,121.09267208359054,Treatment
+323,Taylor and Sons,Philippines,Quezon,14.716427875640568,120.99673758168028,Diagnostics
+324,"Ramsey, Whitney and Coffey",Philippines,Quezon,14.67723674873454,121.08298331066314,Treatment
+325,"Diaz, Gibbs and Smith",Philippines,Quezon,14.716117968156698,121.01148020136011,Diagnostics
+326,"Martinez, Richardson and Curry",Philippines,Quezon,14.687690906347717,121.07382537727901,Research
+327,Richards-Carson,Philippines,Quezon,14.65956637256924,121.00954708356865,Diagnostics
+328,Rodriguez-Hall,Philippines,Quezon,14.66428756781048,121.01298712229047,Treatment
+329,Harvey PLC,Philippines,Quezon,14.627922940956946,121.03832269105328,Treatment
+330,Herman-Walker,Philippines,Quezon,14.635677625952622,121.01563118168787,Diagnostics
+331,Reid Group,Philippines,Quezon,14.67797486342266,121.0769715490873,Research
+332,"Turner, Ortiz and Taylor",Philippines,Quezon,14.651612839872088,121.04803768838187,Research
+333,Torres Group,Philippines,Quezon,14.62789492756318,121.08521990004587,Diagnostics
+334,Davis PLC,Philippines,Quezon,14.67944760583047,121.04182503265821,Research
+335,Price LLC,Philippines,Quezon,14.626025734077126,121.00203961114836,Diagnostics
+336,"Avery, Horton and Fernandez",Philippines,Davao,7.2122876946917085,125.50303988536139,Diagnostics
+337,"Newton, Moore and Perry",Philippines,Davao,7.195224186199435,125.49442363618141,Treatment
+338,Bass PLC,Philippines,Davao,7.223086967296826,125.49797684249081,Treatment
+339,Crosby-Ramirez,Philippines,Davao,7.160838441265905,125.50503558007424,Treatment
+340,"Wood, Ramos and Sampson",Philippines,Davao,7.17568228082338,125.4454757699487,Diagnostics
+341,Garcia-Jennings,Philippines,Davao,7.204881158235406,125.42134510435585,Treatment
+342,"Winters, Newman and Brown",Philippines,Davao,7.180023596791993,125.41639952332002,Treatment
+343,Lopez-Martinez,Philippines,Davao,7.194875716097536,125.44408047535653,Treatment
+344,Davis-Lewis,Philippines,Davao,7.172152460766493,125.47287170276007,Research
+345,"Harper, Smith and Buchanan",Philippines,Davao,7.239758906599307,125.41405712868303,Diagnostics
+346,Zhang PLC,Philippines,Davao,7.1952544658267445,125.47940785735692,Research
+347,Jones PLC,Philippines,Cebu,10.281683116252713,123.87787356433991,Diagnostics
+348,Willis and Sons,Philippines,Cebu,10.346643687743999,123.91779932127248,Treatment
+349,Schroeder-Kramer,Philippines,Cebu,10.311341258122564,123.89011790558635,Treatment
+350,"Smith, Garrison and Thomas",Philippines,Cebu,10.35104748633502,123.88188399926662,Diagnostics
+351,Fernandez and Sons,Philippines,Cebu,10.356856471342287,123.91998383154517,Diagnostics
+352,Guerrero Inc,Philippines,Cebu,10.276479628520494,123.91622048681076,Treatment
+353,Smith and Sons,Philippines,Cebu,10.333679081506014,123.90973811056135,Treatment
+354,"Morris, Thompson and Williams",Philippines,Zamboanga,6.890967266132381,122.03524504296604,Treatment
+355,"Fisher, Wilson and Brown",Philippines,Zamboanga,6.875887734589325,122.1269995084306,Treatment
+356,Strickland-Palmer,Philippines,Zamboanga,6.914381464054788,122.06455923034164,Treatment
+357,Hayes and Sons,Philippines,Zamboanga,6.8843589677482795,122.08173963817,Diagnostics
+358,"Williams, Logan and Camacho",Philippines,Zamboanga,6.885306162548674,122.11012664359278,Research
+359,"Turner, Schneider and Johnson",Philippines,Zamboanga,6.876630954850435,122.09113731463863,Research
+360,Boone-Simmons,Philippines,Zamboanga,6.95377928121833,122.11055389169242,Diagnostics
+361,Henry Group,Philippines,Zamboanga,6.954534958640721,122.11840150827544,Treatment
+362,Lam LLC,Philippines,Zamboanga,6.9382347292366715,122.03289156841473,Diagnostics
+363,"Hernandez, Martinez and Weber",Philippines,Zamboanga,6.944726138135236,122.12441406329214,Research
+364,"Kelley, Nguyen and Vang",Philippines,Zamboanga,6.950924602170382,122.07508558542087,Treatment
+365,"Phillips, Wagner and Jordan",Philippines,Zamboanga,6.953684606847522,122.07763051632192,Research
+366,"Wilson, Pena and Rich",Philippines,Zamboanga,6.962568495187967,122.07218970827104,Diagnostics
+367,"Le, Lewis and Hayes",Philippines,Zamboanga,6.910649250717785,122.06264036319702,Treatment
+368,Gutierrez Group,Philippines,Taguig,14.523370781732085,121.00707852766108,Research
+369,Perry-Davis,Philippines,Taguig,14.483526050682475,121.04790092278674,Diagnostics
+370,Edwards-Scott,Philippines,Taguig,14.476446239174782,121.06438662180557,Diagnostics
+371,Mcdaniel Group,Philippines,Taguig,14.508968904298705,121.06382434464828,Research
+372,Davis Inc,Philippines,Taguig,14.55139536092888,121.01418196541235,Treatment
+373,Reynolds Ltd,Philippines,Taguig,14.54966430284571,121.05557740732752,Diagnostics
+374,"Watson, Anderson and Brown",Philippines,Taguig,14.497356238999883,121.07202611066545,Diagnostics
+375,"Hoffman, Santiago and Jenkins",Philippines,Taguig,14.48076939595357,121.07773391016636,Research
+376,"Pugh, Henderson and Moon",Philippines,Taguig,14.497109108611227,121.03802833907437,Diagnostics
+377,Schmitt PLC,Philippines,Taguig,14.534239846946166,121.03123527549431,Diagnostics
+378,Bell-Lane,Philippines,Taguig,14.506649336226305,121.03620174548527,Research
+379,Moore Group,Philippines,Taguig,14.484214833401376,121.0701088929968,Treatment
+380,Boone LLC,Philippines,Taguig,14.494380798284295,121.02310307778944,Research
+381,"Richardson, Farmer and Andrews",Philippines,Taguig,14.507983388699644,121.09103332628492,Treatment
+382,Bruce-Villegas,Philippines,Taguig,14.566465771086053,121.09258800530075,Research
+383,"Austin, Day and Johnson",Philippines,Pasig,14.56704504037543,121.0565359806396,Diagnostics
+384,"Gallegos, Adams and White",Philippines,Pasig,14.5570345831918,121.01954656985288,Diagnostics
+385,"Farmer, Dorsey and Bell",Philippines,Pasig,14.624766781179115,121.01620965294231,Research
+386,Kane PLC,Philippines,Pasig,14.615366989688377,121.05856234208781,Diagnostics
+387,"Morales, Thomas and Schultz",Philippines,Pasig,14.590116308860482,121.10451402747655,Diagnostics
+388,Davis PLC,Philippines,Pasig,14.541534677947645,121.03869757228114,Treatment
+389,Bennett Group,Philippines,Pasig,14.583629526744536,121.06670664719819,Research
+390,Moore-Collins,Philippines,Pasig,14.621037263541663,121.06868692266853,Treatment
+391,Frank-Bradley,Philippines,Pasig,14.567193199708553,121.04967427021205,Research
+392,Ware and Sons,Philippines,Pasig,14.557863823346363,121.08282746979701,Research
+393,Webster Inc,Philippines,Pasig,14.608155631112275,121.02926661171476,Research
+394,"Miller, Ramos and Coleman",Philippines,Pasig,14.605504528617102,121.10924351242406,Treatment
+395,"Ramos, Nelson and Fischer",Philippines,Pasig,14.60388456407797,121.09980756462465,Research
+396,Reed Inc,Philippines,Pasig,14.551089127952139,121.04379281935964,Diagnostics
+397,Gregory-Watkins,Philippines,Pasig,14.598529792802427,121.10587173482367,Treatment
+398,"Estrada, Williams and Foster",Philippines,Cagayan de Oro,8.497557463601376,124.67946056955252,Treatment
+399,"Brown, Harris and Dougherty",Philippines,Cagayan de Oro,8.472006615992063,124.6307053736663,Research
+400,Duran LLC,Philippines,Cagayan de Oro,8.44459550204914,124.65429081695652,Diagnostics
+401,Wilson-Jimenez,Philippines,Cagayan de Oro,8.427785345452461,124.63745984756731,Diagnostics
+402,Thompson-James,Philippines,Cagayan de Oro,8.48400187597625,124.67829678624088,Research
+403,"Hall, Hansen and Barnett",Philippines,Cagayan de Oro,8.50141862466151,124.66739313368888,Diagnostics
+404,Jones-Hensley,Philippines,Cagayan de Oro,8.45689300859179,124.63378372029842,Diagnostics
+405,Graham Group,Philippines,Cagayan de Oro,8.447727053505018,124.60031028072059,Diagnostics
+406,Atkins PLC,Philippines,Cagayan de Oro,8.480236339756297,124.61927801907825,Treatment
+407,Berry-Mckinney,Philippines,Cagayan de Oro,8.469857490377054,124.60530668519633,Research
+408,Roberts-Sullivan,Philippines,Cagayan de Oro,8.44662275359082,124.6673088497155,Research
+409,Jackson-Meza,Philippines,Iloilo,10.686146930015466,122.57197988424477,Diagnostics
+410,Collier-Gillespie,Philippines,Iloilo,10.730060684076935,122.51512561050063,Treatment
+411,Kim Inc,Philippines,Iloilo,10.671186227704105,122.548524620611,Research
+412,Graham Group,Philippines,Iloilo,10.683586863245115,122.52768644236963,Research
+413,"Miller, Harrell and Reese",Philippines,Iloilo,10.767055430715406,122.51706750140929,Research
+414,Cook and Sons,Philippines,Iloilo,10.74335942407607,122.5265808814649,Treatment
+415,Dixon Inc,Philippines,Iloilo,10.736064158638102,122.5968280608203,Diagnostics
+416,"Hicks, Bullock and Bailey",Philippines,Iloilo,10.722191286318214,122.56381265740777,Treatment
+417,"Mullen, Brewer and Hernandez",Philippines,Iloilo,10.725425708842902,122.53699255301976,Treatment
+418,Thomas and Sons,Philippines,Iloilo,10.673195128078314,122.59238416238806,Treatment
+419,Morrison Ltd,Philippines,Iloilo,10.767128065167679,122.57617084412963,Diagnostics
+420,Thompson Ltd,Philippines,Iloilo,10.761547443613553,122.6115703486432,Treatment
+421,Marshall-Elliott,Philippines,General Santos,6.088312606050208,125.16462733234727,Treatment
+422,"Cole, Glass and Cunningham",Philippines,General Santos,6.087016042371455,125.14151190832183,Treatment
+423,"Downs, Morris and Maddox",Philippines,General Santos,6.064393140117568,125.16351321297829,Treatment
+424,Hernandez-Jones,Philippines,General Santos,6.06807269355881,125.20376590922545,Research
+425,Welch-Hogan,Philippines,General Santos,6.100296912693312,125.14710498583986,Diagnostics
+426,"Brown, Romero and Collins",Philippines,General Santos,6.075310453651513,125.20856922357432,Diagnostics
+427,Johnson-Wood,Philippines,General Santos,6.133369288357884,125.15600694788944,Treatment
+428,Jones-Lin,Philippines,General Santos,6.139193047997703,125.17542835017436,Treatment
+429,Gilbert PLC,Philippines,General Santos,6.148288614284065,125.1387191806296,Treatment
+430,Ford-Spencer,Thailand,Bangkok,13.780349038023308,100.45413825766398,Research
+431,"Huang, Cole and Pacheco",Thailand,Bangkok,13.763395211701024,100.46027813750212,Treatment
+432,"Lopez, Jacobs and Mason",Thailand,Bangkok,13.785400511506378,100.47993664754705,Treatment
+433,Hayes LLC,Thailand,Bangkok,13.731309975900441,100.54831909988808,Research
+434,"Miller, Lucas and Williams",Thailand,Bangkok,13.803807414180879,100.51762826777441,Research
+435,"Kim, Gonzales and Mills",Thailand,Bangkok,13.74166795407695,100.5517860076616,Research
+436,Cox LLC,Thailand,Chiang Mai,18.76204001865974,98.97728930157018,Research
+437,Ortiz-Morgan,Thailand,Chiang Mai,18.79954360614591,99.01727404175509,Treatment
+438,"Williams, Mccoy and Cook",Thailand,Chiang Mai,18.82864650663874,98.94276483735699,Treatment
+439,Davis-Gregory,Thailand,Chiang Mai,18.820163618829366,98.94324420375105,Treatment
+440,King-York,Thailand,Chiang Mai,18.76927779489853,98.96577384637163,Diagnostics
+441,"Marks, Cook and Aguilar",Thailand,Chiang Mai,18.781022672181283,98.94403098189045,Research
+442,Rangel LLC,Thailand,Chiang Mai,18.831244297960716,98.93850037099864,Treatment
+443,"Hale, Myers and Larson",Thailand,Chiang Mai,18.785879999268154,98.98734866841029,Diagnostics
+444,Collins Group,Thailand,Chiang Mai,18.817034316965174,99.00240655835046,Research
+445,"Conner, Li and Santiago",Thailand,Chiang Mai,18.755896912248726,99.02915960432338,Diagnostics
+446,"Osborn, Gaines and Davis",Thailand,Chiang Mai,18.7821597204156,98.99158393522713,Treatment
+447,"Henderson, Cox and Cox",Thailand,Pattaya,12.967874743360449,100.893790362941,Research
+448,Bean LLC,Thailand,Pattaya,12.911447926887616,100.89638909948411,Diagnostics
+449,Lee-Cooke,Thailand,Pattaya,12.923560328053137,100.83577480283382,Diagnostics
+450,Jones Inc,Thailand,Pattaya,12.887689639956518,100.91265316386345,Treatment
+451,"Wise, Conley and Stephenson",Thailand,Pattaya,12.906857907772823,100.91083275470281,Diagnostics
+452,Stanley PLC,Thailand,Pattaya,12.962946913612205,100.86585017320445,Treatment
+453,Harper and Sons,Thailand,Pattaya,12.884183603356645,100.9212880970019,Treatment
+454,White Ltd,Thailand,Pattaya,12.8759189964144,100.90712976950161,Diagnostics
+455,"Lamb, Martin and Kim",Thailand,Phuket,7.879204767748282,98.40584443755857,Treatment
+456,Diaz-Ball,Thailand,Phuket,7.843671502462832,98.37256850157436,Diagnostics
+457,Bishop-Goodwin,Thailand,Phuket,7.848570676780223,98.40878956004201,Treatment
+458,Young-Allen,Thailand,Phuket,7.871106645306578,98.43271108947647,Research
+459,Mckee-Lee,Thailand,Phuket,7.864188784421632,98.39067838259727,Treatment
+460,"Valentine, Joyce and Murray",Thailand,Phuket,7.86853116878891,98.40860654424243,Research
+461,Strickland-Shaw,Thailand,Phuket,7.839764003995605,98.35959451618703,Diagnostics
+462,Burch-Montoya,Thailand,Phuket,7.9114377156082245,98.4385507303502,Diagnostics
+463,"Taylor, Wright and Davidson",Thailand,Phuket,7.92887678012884,98.39775872757524,Diagnostics
+464,Spencer-Garcia,Thailand,Phuket,7.8408585198650815,98.38024314885918,Diagnostics
+465,"Rosales, Mitchell and Hines",Thailand,Phuket,7.907655148221554,98.40562185391597,Diagnostics
+466,Cole-Palmer,Thailand,Phuket,7.834642811160951,98.37708152934302,Diagnostics
+467,Davis-Lozano,Thailand,Phuket,7.835264107756036,98.39074487713746,Diagnostics
+468,Wilkerson-Arias,Thailand,Hat Yai,7.0469978224999394,100.5008667504429,Treatment
+469,Brown-Shaw,Thailand,Hat Yai,7.016946745730241,100.49776623841447,Treatment
+470,Hughes Inc,Thailand,Hat Yai,7.04250492769886,100.4792293541928,Diagnostics
+471,Walker-Flores,Thailand,Hat Yai,7.028649027581531,100.43734676029148,Treatment
+472,Combs Ltd,Thailand,Hat Yai,7.008000050392134,100.51597185330392,Research
+473,Moody-Taylor,Thailand,Hat Yai,7.0467385628112424,100.43816417746848,Treatment
+474,Lowery-Kennedy,Thailand,Hat Yai,7.040447566215517,100.51903892260508,Treatment
+475,Blake Group,Thailand,Hat Yai,6.9775721436113765,100.48488089304949,Diagnostics
+476,Gilbert-Bullock,Thailand,Hat Yai,7.04644551318728,100.49570922375209,Research
+477,Scott and Sons,Thailand,Hat Yai,6.970869873305006,100.48853040799072,Treatment
+478,"Bentley, Lynch and Henderson",Thailand,Hat Yai,6.974753349816182,100.45509939583856,Research
+479,Young-Martinez,Thailand,Hat Yai,6.974374664170094,100.45349210479446,Treatment
+480,Barnes PLC,Thailand,Udon Thani,17.339954924051863,102.86147129864852,Treatment
+481,Brown-Copeland,Thailand,Udon Thani,17.348866556251938,102.78447451840711,Treatment
+482,Carlson-Smith,Thailand,Udon Thani,17.404172441344727,102.85745049074028,Research
+483,"Andrews, Higgins and Carter",Thailand,Udon Thani,17.33013644323231,102.77205132092539,Treatment
+484,Mendez and Sons,Thailand,Udon Thani,17.39916634158729,102.79749878133819,Research
+485,"Butler, Beck and Miller",Thailand,Udon Thani,17.396996190278507,102.83716151574461,Diagnostics
+486,Jones-Fox,Thailand,Udon Thani,17.388953383842896,102.79011851266101,Diagnostics
+487,"Hartman, Romero and Smith",Thailand,Udon Thani,17.378661532279725,102.8199260664982,Diagnostics
+488,Williams-Hughes,Thailand,Udon Thani,17.395680335614493,102.850811448342,Research
+489,King-Smith,Thailand,Udon Thani,17.347321905189695,102.81044859781227,Research
+490,Cooper Ltd,Thailand,Udon Thani,17.394345527756453,102.8430193747,Research
+491,"Fuller, Ingram and Moss",Thailand,Udon Thani,17.385434108829777,102.79828853821363,Diagnostics
+492,Anderson-Bell,Thailand,Nakhon Ratchasima,14.98360349543356,102.08432331544734,Research
+493,Li-Thompson,Thailand,Nakhon Ratchasima,14.989669543441318,102.11612523361948,Diagnostics
+494,"Marshall, Dominguez and Welch",Thailand,Nakhon Ratchasima,15.028641961152719,102.13092464543713,Research
+495,Brown Group,Thailand,Nakhon Ratchasima,14.972089035489143,102.13324940574763,Diagnostics
+496,Carter Inc,Thailand,Nakhon Ratchasima,14.941097224734193,102.07953886520971,Diagnostics
+497,Blackwell LLC,Thailand,Khon Kaen,16.481188562806768,102.83032841933858,Treatment
+498,Robertson-Hays,Thailand,Khon Kaen,16.400071958699737,102.81893072615556,Treatment
+499,"Kennedy, Johnson and Lucas",Thailand,Khon Kaen,16.44002816472171,102.86258080199859,Diagnostics
+500,Kelly-Norman,Thailand,Khon Kaen,16.405776453482552,102.8602251812086,Treatment
+501,"Rivera, Martinez and Richardson",Thailand,Khon Kaen,16.47334083801796,102.8144735675212,Treatment
+502,Paul-Kline,Thailand,Khon Kaen,16.408077078144576,102.77611999307386,Treatment
+503,Morgan-Lopez,Thailand,Khon Kaen,16.4480515115736,102.84170183186328,Treatment
+504,"Jimenez, Glass and Stone",Thailand,Khon Kaen,16.448517403466358,102.79686724538534,Treatment
+505,Acosta Inc,Thailand,Khon Kaen,16.46212728532848,102.84740536093383,Treatment
+506,Morrison-Short,Thailand,Khon Kaen,16.409051995899567,102.85008916175595,Research
+507,"Carter, Garcia and Murphy",Thailand,Khon Kaen,16.457396722258675,102.78780770415318,Research
+508,Parker-Morrison,Thailand,Khon Kaen,16.473633121136317,102.8670846111801,Research
+509,Jackson-Wallace,Thailand,Khon Kaen,16.409132701881784,102.83518433860928,Treatment
+510,Williams-Berg,Thailand,Khon Kaen,16.413125564959284,102.81184549988069,Diagnostics
+511,Mendez-Graham,Thailand,Khon Kaen,16.391115290577314,102.78774840834964,Treatment
+512,"Whitney, Gould and Jones",Thailand,Surat Thani,9.165902107079644,99.2880953634997,Research
+513,"Sullivan, Palmer and Brady",Thailand,Surat Thani,9.17952725251315,99.28281311904627,Treatment
+514,Cisneros and Sons,Thailand,Surat Thani,9.112010667794692,99.33494486312811,Diagnostics
+515,"Gregory, Kim and Martinez",Thailand,Surat Thani,9.133787383100964,99.3283686168269,Diagnostics
+516,Osborne LLC,Thailand,Surat Thani,9.113553655271568,99.27571338250611,Treatment
+517,Reyes-Bradley,Thailand,Surat Thani,9.186910750520466,99.37007782824,Research
+518,"Hernandez, Cole and Watson",Thailand,Surat Thani,9.131539346429712,99.29987168804753,Treatment
+519,Hines-Berry,Thailand,Surat Thani,9.099105614552208,99.27544851206962,Diagnostics
+520,"Richardson, Edwards and Ramirez",Thailand,Surat Thani,9.113280873565643,99.33238314067692,Treatment
+521,Johnson and Sons,Thailand,Nakhon Si Thammarat,8.415251818646334,99.92470053538239,Treatment
+522,Holmes-Mcintyre,Thailand,Nakhon Si Thammarat,8.428211940351144,99.9976537891733,Treatment
+523,Green LLC,Thailand,Nakhon Si Thammarat,8.44717900213588,99.91885985212843,Research
+524,"Griffin, Davies and Mitchell",Thailand,Nakhon Si Thammarat,8.406280330691464,99.95729307971712,Treatment
+525,Gonzalez-Taylor,Thailand,Nakhon Si Thammarat,8.464698288955518,99.93182123464284,Diagnostics
+526,Hayes Ltd,Thailand,Nakhon Si Thammarat,8.454414279346063,99.9607415007869,Diagnostics
+527,Osborn-Cochran,Thailand,Nakhon Si Thammarat,8.432558866297754,100.00995362848415,Treatment
+528,Contreras-Mckinney,Thailand,Nakhon Si Thammarat,8.409726403090295,99.94203467900972,Research
+529,"Daniels, Vance and York",Thailand,Nakhon Si Thammarat,8.41117175285583,99.94309018553597,Treatment
+530,"Mckinney, Graves and Thompson",Thailand,Nakhon Si Thammarat,8.469588244378881,99.9376351722905,Diagnostics
+531,Hicks-Martinez,Thailand,Nakhon Si Thammarat,8.437992809472288,99.96874198664653,Treatment
+532,Conner and Sons,Thailand,Nakhon Si Thammarat,8.456175964352393,99.95956445544091,Research
+533,Johnson-Spencer,Thailand,Nakhon Si Thammarat,8.38325628062373,99.95463994040153,Treatment
+534,Mcdonald-Bird,Vietnam,Hanoi,20.998461118525743,105.85692211729811,Treatment
+535,Salazar Inc,Vietnam,Hanoi,20.99739999264363,105.78733270148464,Treatment
+536,Parker Ltd,Vietnam,Hanoi,21.06453299445946,105.80974702560951,Treatment
+537,"Mendoza, Jenkins and Ortiz",Vietnam,Hanoi,20.97833230022613,105.79488119760168,Research
+538,"Jones, Compton and Day",Vietnam,Hanoi,21.04338776283193,105.78646512069795,Diagnostics
+539,Owens-Holmes,Vietnam,Hanoi,21.065566729947143,105.8640099489,Research
+540,Humphrey PLC,Vietnam,Hanoi,21.024142653236023,105.87775477639067,Research
+541,"Matthews, Saunders and Anderson",Vietnam,Ho Chi Minh,10.77709789513653,106.6177436904895,Treatment
+542,"Bartlett, Brown and Martinez",Vietnam,Ho Chi Minh,10.8390767479659,106.67591008401352,Diagnostics
+543,Torres and Sons,Vietnam,Ho Chi Minh,10.8283032644406,106.65247993917316,Research
+544,Donovan-Perez,Vietnam,Ho Chi Minh,10.863368995373506,106.64528816462804,Research
+545,"Jacobson, Singleton and King",Vietnam,Ho Chi Minh,10.853723873668441,106.6082104016565,Research
+546,"Huber, Hill and Weber",Vietnam,Ho Chi Minh,10.818330578868402,106.59693091558805,Research
+547,"Ferguson, Shaw and Jackson",Vietnam,Ho Chi Minh,10.835162750513515,106.62906385986473,Research
+548,"Moore, Hopkins and Le",Vietnam,Ho Chi Minh,10.799561152903566,106.66736134270222,Diagnostics
+549,"Morgan, Bradshaw and Williams",Vietnam,Ho Chi Minh,10.783831200246286,106.64079648984732,Diagnostics
+550,Miller Ltd,Vietnam,Ho Chi Minh,10.831500678840987,106.6085031682919,Research
+551,"Baker, Clark and Armstrong",Vietnam,Da Nang,16.084954442914857,108.23174067778974,Research
+552,"Fowler, Jimenez and Burton",Vietnam,Da Nang,16.007391751708834,108.25317181719053,Treatment
+553,May-Turner,Vietnam,Da Nang,16.028045266198454,108.21279737134444,Diagnostics
+554,Ballard Ltd,Vietnam,Da Nang,16.030661837027843,108.19860406566515,Treatment
+555,Evans-Jones,Vietnam,Da Nang,16.081527119104788,108.1618331084789,Diagnostics
+556,Moore Group,Vietnam,Da Nang,16.09484482800799,108.25229411763252,Diagnostics
+557,Marshall-Peterson,Vietnam,Da Nang,16.060263296427173,108.16007309401665,Research
+558,Edwards Ltd,Vietnam,Da Nang,16.033017206167013,108.18138426390986,Research
+559,Gross-Valencia,Vietnam,Da Nang,16.080819668607504,108.23121153588598,Treatment
+560,Anderson-Wood,Vietnam,Da Nang,16.01609406729355,108.24133904141664,Research
+561,"Rodriguez, Allen and Martinez",Vietnam,Da Nang,16.074542910940302,108.20214271938677,Research
+562,Wright-Davis,Vietnam,Da Nang,16.01984182467917,108.24496708643433,Research
+563,Dougherty-Lin,Vietnam,Da Nang,16.019784989959017,108.20936401193086,Research
+564,Wright-Grimes,Vietnam,Da Nang,16.062182862691774,108.24481384042146,Treatment
+565,Li PLC,Vietnam,Da Nang,16.02918007904453,108.23113156572379,Diagnostics
+566,"Edwards, Hines and Jimenez",Vietnam,Haiphong,20.827944443679087,106.73631853325828,Treatment
+567,"Owens, Koch and Jimenez",Vietnam,Haiphong,20.850632584926117,106.66250619294183,Diagnostics
+568,Landry PLC,Vietnam,Haiphong,20.890544889461353,106.67820086917429,Treatment
+569,Levy-Lewis,Vietnam,Haiphong,20.836521054093172,106.6463594288281,Diagnostics
+570,Williams-Campbell,Vietnam,Haiphong,20.880267167222673,106.73401013405443,Treatment
+571,"Khan, Pena and Ruiz",Vietnam,Haiphong,20.813511583133824,106.69553342134563,Treatment
+572,"Smith, Rodriguez and Anderson",Vietnam,Haiphong,20.871078931978683,106.735482370113,Research
+573,Luna-Gallagher,Vietnam,Haiphong,20.83372615433914,106.73197193694384,Diagnostics
+574,Williams-Williams,Vietnam,Haiphong,20.8014706937745,106.69784750420858,Research
+575,"Lee, Tran and Jones",Vietnam,Haiphong,20.872405223434484,106.71614243844913,Research
+576,"Cole, Pierce and Bryan",Vietnam,Haiphong,20.831524915313533,106.66618057272575,Treatment
+577,"Becker, Wilson and Hester",Vietnam,Haiphong,20.83869409641339,106.66381719914556,Treatment
+578,Brooks-Hatfield,Vietnam,Haiphong,20.815881643426806,106.64984152158873,Treatment
+579,"Mcmillan, Fischer and Gonzalez",Vietnam,Haiphong,20.882239131425926,106.64436545265062,Treatment
+580,"Morales, Williams and Williams",Vietnam,Haiphong,20.851217729538327,106.64377032413613,Diagnostics
+581,"Cook, Wells and Bryant",Vietnam,Can Tho,10.088913273935361,105.76453969644706,Diagnostics
+582,"Barry, Taylor and Velazquez",Vietnam,Can Tho,10.048880888175725,105.70484987549796,Research
+583,Martin-Ewing,Vietnam,Can Tho,10.065449666571114,105.73281405597012,Treatment
+584,"Kirby, Wheeler and Romero",Vietnam,Can Tho,10.00930770706668,105.79051369952892,Diagnostics
+585,"Patel, Erickson and Evans",Vietnam,Can Tho,10.082159716608764,105.70161704292376,Diagnostics
+586,Richardson Ltd,Vietnam,Can Tho,10.035652144772683,105.75881226593079,Treatment
+587,Whitney PLC,Vietnam,Can Tho,10.056076488720898,105.77743364404755,Research
+588,Robles-Swanson,Vietnam,Can Tho,10.090508272222714,105.75364829697114,Treatment
+589,"Soto, Carlson and Baker",Vietnam,Can Tho,10.015176053024302,105.76882327720793,Diagnostics
+590,"Patton, Parsons and Lane",Vietnam,Can Tho,10.038797316656877,105.7084940714763,Research
+591,"Williams, Castillo and Warren",Vietnam,Can Tho,10.078327795585656,105.74625213943806,Diagnostics
+592,"Harvey, Randall and Hernandez",Vietnam,Can Tho,10.064937551320437,105.76830143195157,Research
+593,"Allen, Armstrong and Graves",Vietnam,Can Tho,10.043869027753756,105.77322917747655,Diagnostics
+594,Smith LLC,Vietnam,Can Tho,10.023764808350801,105.78116984894828,Research
+595,Hernandez-Vaughn,Vietnam,Can Tho,10.066891441016601,105.78799514716658,Diagnostics
+596,Shaw-Carr,Vietnam,Bien Hoa,10.962235442114663,106.78895282342951,Treatment
+597,Salas-Fitzgerald,Vietnam,Bien Hoa,10.999898797744008,106.81395067821411,Research
+598,Thornton PLC,Vietnam,Bien Hoa,10.941709251199624,106.78251417365388,Treatment
+599,Hoffman Ltd,Vietnam,Bien Hoa,10.993898942898944,106.84072541132876,Diagnostics
+600,Fox-Edwards,Vietnam,Bien Hoa,11.017963713041551,106.86904897779108,Research
+601,Stevens PLC,Vietnam,Bien Hoa,10.987214527653405,106.88026847739981,Diagnostics
+602,Payne-Lowe,Vietnam,Bien Hoa,11.007180126942513,106.84027921797711,Treatment
+603,"Becker, Lara and Baker",Vietnam,Bien Hoa,10.92538286655956,106.80724889191524,Treatment
+604,Lee-Wright,Vietnam,Bien Hoa,10.97367257401547,106.79436685283285,Treatment
+605,"Evans, David and Hendrix",Vietnam,Bien Hoa,10.97423161231004,106.7826467100366,Diagnostics
+606,Bush-Vaughn,Vietnam,Hue,16.460192280684698,107.58313678606069,Diagnostics
+607,Stewart-Bailey,Vietnam,Hue,16.474554533491077,107.62758675740264,Research
+608,"Hill, Martinez and Rhodes",Vietnam,Hue,16.502869207009333,107.55580942668128,Treatment
+609,Huang-Foster,Vietnam,Hue,16.418451456996603,107.63287380743668,Diagnostics
+610,Blevins-Ballard,Vietnam,Hue,16.42087285750453,107.57728789853786,Diagnostics
+611,Williams-Moses,Vietnam,Hue,16.50145553627193,107.58287528384454,Research
+612,Reed Group,Vietnam,Hue,16.49672056095359,107.55866675430437,Diagnostics
+613,"Scott, Mendoza and Harris",Vietnam,Hue,16.43758534013401,107.6136472120907,Treatment
+614,"Nelson, Hoffman and Nelson",Vietnam,Hue,16.416222167476718,107.58897519103488,Research
+615,Gilbert PLC,Vietnam,Hue,16.43457880709612,107.62838625850047,Treatment
+616,Sanchez Ltd,Vietnam,Hue,16.475859085322128,107.5732907707337,Research
+617,"Perez, Hall and Garcia",Vietnam,Hue,16.503186036353842,107.63506259965754,Research
+618,Love-Garcia,Vietnam,Nha Trang,12.263505878024047,109.17577546668298,Research
+619,Smith PLC,Vietnam,Nha Trang,12.257896010986064,109.17476925594528,Research
+620,Russell Group,Vietnam,Nha Trang,12.22236516606018,109.19332635409118,Treatment
+621,Santos-Avila,Vietnam,Nha Trang,12.206537938185964,109.23802882166515,Diagnostics
+622,Morris-Brewer,Vietnam,Nha Trang,12.219388797866033,109.20028555096614,Treatment
+623,Pearson and Sons,Vietnam,Nha Trang,12.239948702063273,109.2055999429018,Diagnostics
+624,"Rodgers, Jefferson and Johnson",Vietnam,Nha Trang,12.21176105411594,109.19860051825265,Diagnostics
+625,Butler and Sons,Vietnam,Nha Trang,12.211990288978011,109.19118175859182,Research
+626,Osborn Group,Vietnam,Nha Trang,12.202666336337067,109.23210537282922,Research
+627,Lopez-Curry,Vietnam,Vung Tau,10.306649041016255,107.09241178125698,Research
+628,Mcdowell-Smith,Vietnam,Vung Tau,10.340965021820606,107.12922200350118,Treatment
+629,"Morrison, Hebert and Rogers",Vietnam,Vung Tau,10.387946982878162,107.12499963386047,Diagnostics
+630,Hays-Daniels,Vietnam,Vung Tau,10.377194724152954,107.12089319951482,Diagnostics
+631,Small-Anderson,Vietnam,Vung Tau,10.341307880169383,107.05186088509463,Diagnostics
+632,"Mcdonald, Lee and Rodriguez",Vietnam,Vung Tau,10.36260915642606,107.05890811993939,Research
+633,Simon Ltd,Vietnam,Vung Tau,10.36323428954008,107.04164949565488,Treatment
+634,Higgins-Smith,Vietnam,Vung Tau,10.305837802447662,107.09165897022562,Research
+635,Gibbs-Bradley,Vietnam,Vung Tau,10.31721175118334,107.08786781930729,Treatment
+636,Thompson Ltd,Vietnam,Vung Tau,10.33162509050229,107.11883116482412,Treatment
+637,Wilcox-Robertson,Vietnam,Qui Nhon,13.81119659689086,109.23571661968901,Diagnostics
+638,Morales Inc,Vietnam,Qui Nhon,13.737201480938388,109.22509782094832,Diagnostics
+639,Holden Group,Vietnam,Qui Nhon,13.80592370770879,109.25897388291231,Research
+640,Boyle-Smith,Vietnam,Qui Nhon,13.75639533613334,109.22556398748499,Treatment
+641,Young-Molina,Vietnam,Qui Nhon,13.73987365545494,109.21421825009203,Research
+642,Turner-Sharp,Vietnam,Qui Nhon,13.771545361371349,109.17940953573613,Diagnostics
+643,Green LLC,Vietnam,Qui Nhon,13.80037758357251,109.25447466058915,Research
+644,"Young, Contreras and Marshall",Vietnam,Qui Nhon,13.814835803656944,109.19179027374328,Research
+645,Sullivan PLC,Vietnam,Qui Nhon,13.804680667138811,109.21310923842866,Research
+646,"Carrillo, Vaughn and Fowler",Vietnam,Qui Nhon,13.807678113526329,109.24929380537773,Diagnostics
+647,Richardson-Walker,Nepal,Kathmandu,27.733368012597726,85.32083640949556,Diagnostics
+648,Mendoza Group,Nepal,Kathmandu,27.760724801553163,85.3536003447505,Research
+649,"Zhang, Brooks and Miles",Nepal,Kathmandu,27.692501235540888,85.32356105059365,Diagnostics
+650,Todd-Pham,Nepal,Kathmandu,27.749669179333335,85.30511220205375,Research
+651,Gill Ltd,Nepal,Kathmandu,27.75925030825393,85.27413892143568,Diagnostics
+652,"Marks, Miller and Griffin",Nepal,Kathmandu,27.725356056450778,85.34973352347559,Research
+653,"Cox, Stark and Rodriguez",Nepal,Kathmandu,27.766818377461195,85.32594070253676,Research
+654,"Leach, Harris and Herrera",Nepal,Kathmandu,27.700763935237227,85.31261617068552,Research
+655,Murphy PLC,Nepal,Pokhara,28.23921473475234,83.94316327610953,Diagnostics
+656,Wilson-Harris,Nepal,Pokhara,28.245714900318784,84.00081504481813,Treatment
+657,"Burns, Nolan and Griffin",Nepal,Pokhara,28.230261239181655,83.98914831378401,Diagnostics
+658,Chavez PLC,Nepal,Pokhara,28.244025345710675,83.94241769211997,Treatment
+659,Bryant-Brown,Nepal,Pokhara,28.16780950373772,83.98704745123514,Research
+660,Chambers-Parker,Nepal,Pokhara,28.207801341579405,83.94241100505852,Research
+661,Foster Inc,Nepal,Pokhara,28.161663406583994,83.96037814419245,Research
+662,"Robinson, Jones and Henderson",Nepal,Pokhara,28.246311027671727,83.93718688729794,Diagnostics
+663,"Brown, Mcknight and Michael",Nepal,Pokhara,28.247240189455262,84.00062491873052,Diagnostics
+664,Andersen Group,Nepal,Pokhara,28.166419878435555,83.9945148572015,Treatment
+665,Mitchell and Sons,Nepal,Lalitpur,27.64464727095534,85.27037716272336,Diagnostics
+666,Cannon Ltd,Nepal,Lalitpur,27.628268127095886,85.34863593896816,Diagnostics
+667,"Stuart, Brooks and Vance",Nepal,Lalitpur,27.62960071676193,85.35254530862142,Research
+668,Kane-Knox,Nepal,Lalitpur,27.65674660811241,85.31142294935293,Research
+669,Miller-Brandt,Nepal,Lalitpur,27.66846326984033,85.3128819412679,Diagnostics
+670,"Anderson, Dalton and Wilson",Nepal,Lalitpur,27.644591365701345,85.36240800398438,Diagnostics
+671,"Long, Anderson and Irwin",Nepal,Lalitpur,27.704743459945767,85.35601415272073,Treatment
+672,Avila LLC,Nepal,Lalitpur,27.706068724336472,85.35807938129348,Research
+673,Nunez-Stephens,Nepal,Lalitpur,27.63470068302627,85.29960835791236,Research
+674,"Gray, Hall and Murray",Nepal,Lalitpur,27.648041396038433,85.27763928020292,Treatment
+675,Hill Ltd,Nepal,Lalitpur,27.71037392205049,85.35332325944702,Diagnostics
+676,Johnson Ltd,Nepal,Lalitpur,27.685151256673137,85.35719421171149,Treatment
+677,Mendez-Mayer,Nepal,Lalitpur,27.625052640461913,85.2974919493904,Treatment
+678,Allen Inc,Nepal,Lalitpur,27.61963468904896,85.34802969598904,Treatment
+679,Wheeler Group,Nepal,Biratnagar,26.413585584411635,87.27020668438064,Treatment
+680,"Powers, Brennan and Sanchez",Nepal,Biratnagar,26.500819479894215,87.23456004909245,Research
+681,Morales and Sons,Nepal,Biratnagar,26.441577219606973,87.25227038529154,Diagnostics
+682,"Robinson, Shields and Brown",Nepal,Biratnagar,26.48472138150806,87.3176975364612,Diagnostics
+683,"Holder, Young and Hendricks",Nepal,Biratnagar,26.433239179349798,87.28371187068116,Diagnostics
+684,"Flores, Harper and Chambers",Nepal,Biratnagar,26.45816571195827,87.29789288138885,Research
+685,Young-Walter,Nepal,Biratnagar,26.404792525228395,87.30687054040762,Research
+686,"Boyd, Gutierrez and Hill",Nepal,Dharan,26.823539919089136,87.31908403802396,Treatment
+687,"Fry, Hobbs and Buck",Nepal,Dharan,26.843702279367612,87.32973839162752,Diagnostics
+688,"Shelton, Peters and Williams",Nepal,Dharan,26.82032267484611,87.2718685977254,Diagnostics
+689,David-Powers,Nepal,Dharan,26.774632159107274,87.26376982647774,Research
+690,"Flores, Butler and Hernandez",Nepal,Dharan,26.847758959872497,87.28258172787838,Treatment
+691,White-Medina,Nepal,Dharan,26.772373834150812,87.27046756830559,Research
+692,Atkinson LLC,Nepal,Dharan,26.79631239647628,87.2813173136176,Research
+693,"Thomas, Ford and Brown",Nepal,Dharan,26.834299435830207,87.25433883274727,Research
+694,Faulkner-Grant,Nepal,Dharan,26.827502774822243,87.25843248561068,Diagnostics
+695,Price LLC,Nepal,Bharatpur,27.7049389772967,84.44735157326501,Research
+696,Rivera Inc,Nepal,Bharatpur,27.691757690461337,84.42514394706751,Research
+697,Boone-Davis,Nepal,Bharatpur,27.699573100088024,84.40776530926021,Research
+698,"Calderon, Williams and Bennett",Nepal,Bharatpur,27.722220199235714,84.40884816567909,Research
+699,"Morrison, Russo and Lopez",Nepal,Bharatpur,27.72070577490585,84.43103360743517,Research
+700,"Ramsey, Hansen and Mendoza",Nepal,Bharatpur,27.672162689833115,84.42283094055398,Research
+701,Turner-Stout,Nepal,Bharatpur,27.636798037910072,84.42263143314045,Research
+702,Giles Ltd,Nepal,Bharatpur,27.719836676444004,84.42067881910133,Research
+703,Burgess Group,Nepal,Janakpur,26.778503210315773,85.91931251804282,Treatment
+704,Dominguez Ltd,Nepal,Janakpur,26.720248494145373,85.8872540030919,Diagnostics
+705,Sanders and Sons,Nepal,Janakpur,26.77588512711321,85.9719893296142,Research
+706,"Morris, Campbell and Owens",Nepal,Janakpur,26.68552478714143,85.9425446669892,Treatment
+707,"Howard, Green and Hunt",Nepal,Janakpur,26.693115469071078,85.92381915732823,Diagnostics
+708,Owens-Lang,Nepal,Janakpur,26.769623453045572,85.88958432285891,Diagnostics
+709,"Harrison, Franco and Rocha",Nepal,Janakpur,26.77125564069483,85.91935133010362,Treatment
+710,Edwards-Williams,Nepal,Janakpur,26.68064226785276,85.94400953067509,Diagnostics
+711,Figueroa Inc,Nepal,Janakpur,26.75700207105197,85.94270349400341,Research
+712,Tran-Silva,Nepal,Janakpur,26.708316489372997,85.88649307751513,Diagnostics
+713,"Butler, Hernandez and Rivera",Nepal,Janakpur,26.741963229016513,85.87697613233222,Treatment
+714,Hudson-Sanchez,Nepal,Janakpur,26.696933630633378,85.88721783649984,Diagnostics
+715,"Pena, Cohen and Scott",Nepal,Hetauda,27.39252963600557,84.98667787627187,Diagnostics
+716,Levy-May,Nepal,Hetauda,27.392224510360666,85.06879983621772,Research
+717,Murray-Oconnor,Nepal,Hetauda,27.45511481537129,85.07614854387707,Diagnostics
+718,Jackson-Cortez,Nepal,Hetauda,27.414483721816374,85.04726841178437,Diagnostics
+719,White-Preston,Nepal,Hetauda,27.380350283061702,85.07235790549345,Treatment
+720,"Bernard, Warren and Combs",Nepal,Hetauda,27.476534361930003,85.03055533172633,Research
+721,Landry Ltd,Nepal,Hetauda,27.394407784706182,85.04448766370152,Diagnostics
+722,Duran Group,Nepal,Hetauda,27.40336210754346,85.00416409742371,Diagnostics
+723,Kirby and Sons,Nepal,Hetauda,27.409837374501652,85.01789565602175,Treatment
+724,Mann Inc,Nepal,Hetauda,27.39619319503333,84.99488046334336,Treatment
+725,Wagner LLC,Nepal,Hetauda,27.449857204361518,85.00252960261646,Diagnostics
+726,Williamson Ltd,Nepal,Nepalgunj,28.03397829378813,81.56674808692831,Diagnostics
+727,"Durham, Hopkins and Smith",Nepal,Nepalgunj,28.069911085686602,81.59668369828451,Research
+728,"Arnold, Smith and Moreno",Nepal,Nepalgunj,28.082937732978166,81.61792451663793,Diagnostics
+729,Nichols-Mitchell,Nepal,Nepalgunj,28.04747095660422,81.62960694381067,Diagnostics
+730,"Li, Craig and Drake",Nepal,Nepalgunj,28.028116107883108,81.61786746554844,Research
+731,Rodriguez Inc,Nepal,Nepalgunj,28.031839525861592,81.66134269372662,Treatment
+732,"Hernandez, Lee and Fox",Nepal,Nepalgunj,28.078385530354108,81.65648998538501,Diagnostics
+733,Adams-Sanders,Nepal,Nepalgunj,28.075590953379166,81.58386315642265,Research
+734,Chung-Stevens,Nepal,Nepalgunj,28.02439503791143,81.65316062639917,Treatment
+735,Branch and Sons,Nepal,Nepalgunj,28.00439124941982,81.66012561348983,Research
+736,Sutton-Abbott,Nepal,Nepalgunj,28.06873355402545,81.58081823382854,Diagnostics
+737,"Frey, Santos and Johnson",Nepal,Itahari,26.674910459577468,87.31469353210782,Research
+738,Gray-Tran,Nepal,Itahari,26.63350100363907,87.28579871957314,Research
+739,Walsh Ltd,Nepal,Itahari,26.633236130610097,87.25486213659543,Treatment
+740,Miller Group,Nepal,Itahari,26.696973286896483,87.24808343185548,Research
+741,"Mueller, Knight and Hodge",Nepal,Itahari,26.697857611852744,87.30634885769956,Treatment
+742,Jacobson Inc,Nepal,Itahari,26.68307632355324,87.31651126603231,Treatment
+743,Lewis Ltd,Nepal,Itahari,26.674025935853038,87.23929113095716,Research
+744,"Alvarez, Williams and Jones",Nepal,Itahari,26.64680576254986,87.2964462834754,Treatment
+745,Lam-Elliott,Nepal,Itahari,26.620909534657354,87.2752896679745,Diagnostics
+746,White LLC,Nepal,Itahari,26.653945044690932,87.27515696342675,Diagnostics
+747,Ali PLC,Nepal,Itahari,26.635413895491645,87.25590455247483,Research
+748,Goodwin Ltd,Nepal,Itahari,26.639482252562342,87.25387973035868,Treatment
+749,Hickman-Evans,Cambodia,Phnom Penh,11.597783823747008,104.92328632017241,Treatment
+750,"Allen, Davenport and Price",Cambodia,Phnom Penh,11.546171277174818,104.90228687536926,Diagnostics
+751,"Rivera, Campos and Taylor",Cambodia,Phnom Penh,11.532908358733927,104.88932654408707,Diagnostics
+752,"Ramsey, Mason and Mccann",Cambodia,Phnom Penh,11.572583096992918,104.89745844839496,Research
+753,Davis and Sons,Cambodia,Phnom Penh,11.573729791208029,104.89422029297296,Research
+754,Peterson PLC,Cambodia,Phnom Penh,11.584072705015545,104.90855188857573,Treatment
+755,"Sanders, Ayala and Johnson",Cambodia,Phnom Penh,11.510114163507728,104.88958732210524,Research
+756,Bowers-Hayes,Cambodia,Phnom Penh,11.546418341907248,104.94979781457783,Diagnostics
+757,Kelly Group,Cambodia,Phnom Penh,11.601942931981995,104.89413642097543,Diagnostics
+758,Lopez-Willis,Cambodia,Phnom Penh,11.56721940418522,104.91070014968167,Treatment
+759,Miller-Montgomery,Cambodia,Phnom Penh,11.52803947341464,104.94663079495668,Treatment
+760,Marquez Inc,Cambodia,Phnom Penh,11.52091501698415,104.92947140854712,Diagnostics
+761,Moore-Dawson,Cambodia,Phnom Penh,11.54865279376939,104.89882101355244,Research
+762,"Moore, Price and Ward",Cambodia,Phnom Penh,11.544920224597094,104.9768711953121,Diagnostics
+763,Smith LLC,Cambodia,Siem Reap,13.391332691682416,103.8638589524654,Treatment
+764,Ward-Nelson,Cambodia,Siem Reap,13.396308369249988,103.86624991992997,Treatment
+765,Miller Group,Cambodia,Siem Reap,13.392141316584908,103.83343678792052,Research
+766,Hawkins-Hunt,Cambodia,Siem Reap,13.403524399532705,103.88622946124295,Research
+767,Johnson LLC,Cambodia,Siem Reap,13.402939519878396,103.84329816010514,Research
+768,"Davis, George and Nguyen",Cambodia,Siem Reap,13.336644468903446,103.82910301898443,Research
+769,Smith-Gutierrez,Cambodia,Siem Reap,13.317998038862749,103.86726112186629,Treatment
+770,Hardy PLC,Cambodia,Siem Reap,13.403700900082802,103.80369948672605,Research
+771,Armstrong and Sons,Cambodia,Siem Reap,13.40574001277556,103.88529259369624,Research
+772,"James, Taylor and Turner",Cambodia,Siem Reap,13.374019740687816,103.81089222574796,Treatment
+773,Thomas-Jackson,Cambodia,Siem Reap,13.362506529564124,103.80211843224888,Research
+774,Fisher-Washington,Cambodia,Battambang,13.121034512598206,103.20815185227967,Treatment
+775,Ward and Sons,Cambodia,Battambang,13.121772740668108,103.16432342632334,Diagnostics
+776,"Weber, Wheeler and Gonzalez",Cambodia,Battambang,13.107964686453924,103.23270720407508,Treatment
+777,Taylor Inc,Cambodia,Battambang,13.068790020873717,103.24598462402676,Research
+778,Cook-Oliver,Cambodia,Battambang,13.065837905380892,103.16574007495697,Diagnostics
+779,Alexander-Jordan,Cambodia,Battambang,13.05883273598203,103.19257284411304,Treatment
+780,"Mccann, Taylor and Flores",Cambodia,Battambang,13.079540707798627,103.20170728967592,Research
+781,"Harris, Edwards and Oconnell",Cambodia,Battambang,13.089990539168035,103.2273443447811,Diagnostics
+782,Carter-Neal,Cambodia,Battambang,13.124044135544295,103.23183442477932,Treatment
+783,Faulkner-Casey,Cambodia,Battambang,13.13390200719485,103.23404247188165,Diagnostics
+784,Bennett-Velasquez,Cambodia,Battambang,13.052080651127064,103.1895710243732,Diagnostics
+785,Diaz-Frederick,Cambodia,Sihanoukville,10.61862532122367,103.57637823865518,Research
+786,Vargas PLC,Cambodia,Sihanoukville,10.595951864809992,103.57108128435523,Research
+787,Maldonado PLC,Cambodia,Sihanoukville,10.65723275074682,103.52359543041378,Treatment
+788,Benton Group,Cambodia,Sihanoukville,10.575572052272285,103.54733671107262,Diagnostics
+789,"Clark, Salinas and Guerra",Cambodia,Sihanoukville,10.58352614904249,103.51966587668312,Treatment
+790,Fuentes Group,Cambodia,Sihanoukville,10.582908450752962,103.48526049561559,Treatment
+791,"Porter, Schultz and Allen",Cambodia,Sihanoukville,10.628813624528332,103.50339148066442,Treatment
+792,"Moore, Henderson and Bennett",Cambodia,Sihanoukville,10.639733649200418,103.48505673365405,Research
+793,Ewing-Mendoza,Cambodia,Kampong Cham,12.048000536486466,105.41900157945352,Diagnostics
+794,Ferguson-Mclean,Cambodia,Kampong Cham,12.04019947740972,105.48964470748264,Research
+795,"Barnes, Johnson and Schmitt",Cambodia,Kampong Cham,11.992900493371328,105.41460311215538,Treatment
+796,"Woodard, Herrera and Little",Cambodia,Kampong Cham,12.018917893148341,105.44406260267684,Research
+797,Rodriguez and Sons,Cambodia,Kampong Cham,12.017319141280591,105.49898752000828,Treatment
+798,"Ortega, Jackson and Salazar",Cambodia,Kampong Cham,11.969870659879701,105.48670664796191,Research
+799,"Terrell, Byrd and Ross",Cambodia,Kampong Cham,12.019433494930846,105.43625323431002,Diagnostics
+800,Sheppard-Jordan,Cambodia,Kampong Cham,11.961279553821868,105.43027457604602,Diagnostics
+801,Garcia and Sons,Cambodia,Kampong Cham,11.992493914257052,105.40958064001082,Diagnostics
+802,"Burgess, Grant and Watts",Cambodia,Kampong Cham,11.964392042462476,105.43988352581822,Research
+803,Griffin Group,Cambodia,Kampong Cham,12.03479355569319,105.42782167831244,Treatment
+804,Barton-Chapman,Cambodia,Kampong Cham,12.03125549542396,105.46287884748739,Diagnostics
+805,"Hernandez, Cuevas and Webb",Cambodia,Kampong Cham,12.012163018055697,105.48605869091152,Treatment
+806,Perry-Nixon,Cambodia,Kampong Cham,11.953521413308676,105.41993998476958,Research
+807,Guerra Ltd,Cambodia,Poipet,13.645553213117967,102.55749630938995,Diagnostics
+808,Bailey LLC,Cambodia,Poipet,13.686043972238231,102.6076754592122,Diagnostics
+809,Mueller-Boyd,Cambodia,Poipet,13.617616230423197,102.56085449093561,Research
+810,Alvarez-Kim,Cambodia,Poipet,13.671444224188852,102.55325995581109,Diagnostics
+811,"Chavez, Jones and Williams",Cambodia,Poipet,13.70436143822078,102.60268510032586,Treatment
+812,"Wilson, Sweeney and Wong",Cambodia,Poipet,13.610797797556673,102.5185073719698,Treatment
+813,"Marsh, Spears and Yang",Cambodia,Poipet,13.619729781150268,102.53053374705279,Diagnostics
+814,"Thompson, Moore and Castro",Cambodia,Poipet,13.66498477930641,102.583505994092,Research
+815,Hall-Sullivan,Cambodia,Poipet,13.65036519612675,102.52721201247364,Treatment
+816,Lopez Ltd,Cambodia,Poipet,13.619924505624423,102.59987083158892,Diagnostics
+817,Foster-Mclaughlin,Cambodia,Poipet,13.691995674908847,102.60779842638605,Diagnostics
+818,Cole Group,Cambodia,Poipet,13.663536696266505,102.56546481928517,Treatment
+819,Smith-Lewis,Cambodia,Poipet,13.666157667670786,102.61030399322978,Diagnostics
+820,Goodwin-Stokes,Cambodia,Poipet,13.619576863067469,102.52710045030499,Treatment
+821,Ray PLC,Cambodia,Pursat,12.50215027380962,103.86965089254376,Treatment
+822,Diaz and Sons,Cambodia,Pursat,12.555643661584673,103.95955439598843,Diagnostics
+823,Wilson-Lambert,Cambodia,Pursat,12.58766574663102,103.87319755208625,Treatment
+824,Rose-Fowler,Cambodia,Pursat,12.532459145437693,103.95569487458039,Diagnostics
+825,"Price, Long and Wilson",Cambodia,Pursat,12.585779573610573,103.93815232329099,Diagnostics
+826,Bruce-Williamson,Cambodia,Pursat,12.496804023873759,103.89648995902176,Treatment
+827,"Mccarthy, Evans and Mendez",Cambodia,Pursat,12.497013685884777,103.89822321173314,Treatment
+828,Powers LLC,Cambodia,Takeo,10.958165506744443,104.80241149968316,Research
+829,Allen Inc,Cambodia,Takeo,11.02246505516372,104.73633474583077,Treatment
+830,Brooks and Sons,Cambodia,Takeo,10.96579380033414,104.7449429848939,Diagnostics
+831,"Price, Carlson and Andrews",Cambodia,Takeo,11.034017622060452,104.77020181805881,Treatment
+832,Lopez-Reid,Cambodia,Takeo,11.025692550031758,104.76933081683153,Diagnostics
+833,"Ellison, Arias and Thompson",Cambodia,Takeo,11.036377209335008,104.74194187872185,Research
+834,Burns and Sons,Cambodia,Takeo,10.976433790158556,104.75751009896527,Diagnostics
+835,Edwards Group,Cambodia,Takeo,10.985813675838786,104.80034294695469,Treatment
+836,"Brown, Howard and Smith",Cambodia,Takeo,11.02266708169066,104.78148200393606,Research
+837,Lee Group,Cambodia,Takeo,11.009466990534865,104.73804318863205,Diagnostics
+838,"Wagner, Simpson and Cohen",Cambodia,Takeo,10.984737737748315,104.7563787365996,Research
+839,Mckinney-Wallace,Cambodia,Takeo,10.97984206141096,104.7985609046872,Diagnostics
+840,Miller Inc,Cambodia,Takeo,11.002974805397086,104.77578184403517,Treatment
+841,Carter LLC,Cambodia,Takeo,11.000892638751695,104.74094554869507,Treatment
+842,Medina and Sons,Cambodia,Stung Treng,13.570432980589361,105.98361423333678,Treatment
+843,Cunningham-Barton,Cambodia,Stung Treng,13.519445299983323,105.93869094647867,Diagnostics
+844,Dunn-Wilson,Cambodia,Stung Treng,13.52640554468726,105.99229835860181,Treatment
+845,Adams PLC,Cambodia,Stung Treng,13.51530260222797,106.00708790323758,Research
+846,Weaver-Sherman,Cambodia,Stung Treng,13.57667970470698,105.92007491425188,Research
+847,"Alexander, Robinson and Coleman",Cambodia,Stung Treng,13.480436213208359,105.99314450732695,Diagnostics
+848,"Greer, Potter and Evans",Cambodia,Stung Treng,13.488525731252045,105.98004986577283,Diagnostics
+849,Cole LLC,Cambodia,Stung Treng,13.549378076343562,105.96666623271216,Diagnostics
+850,Gonzales Inc,Cambodia,Stung Treng,13.54562254109784,105.97181994911197,Research
+851,Clark Ltd,Cambodia,Stung Treng,13.527448176184393,105.921273477202,Treatment
+852,"Norris, Callahan and Bishop",Cambodia,Stung Treng,13.508022324610016,105.94709538026181,Treatment
+853,Martin-Taylor,Cambodia,Stung Treng,13.540836630477667,105.97140352386432,Treatment
+854,Li Inc,Cambodia,Stung Treng,13.506867751521877,105.95224443517351,Diagnostics
+855,"Bell, Campbell and Ryan",Cambodia,Stung Treng,13.527584814228987,105.98062202152573,Diagnostics
+856,Werner-Carter,Cambodia,Kampot,10.623347490589241,104.20101312804309,Research
+857,"Adams, Hodge and Duke",Cambodia,Kampot,10.593532604049184,104.14322024280952,Treatment
+858,"Ochoa, Taylor and Brady",Cambodia,Kampot,10.585027525996026,104.16316120395625,Research
+859,Sellers-Riddle,Cambodia,Kampot,10.599372878968575,104.16833480690406,Treatment
+860,"Martinez, Cline and Wright",Cambodia,Kampot,10.608265219948724,104.15615549403908,Diagnostics
+861,"Morris, Wright and Bridges",Cambodia,Kampot,10.605211736226863,104.2159034305935,Research
+862,Burns-Ray,Cambodia,Kampot,10.565534150314647,104.18302332229116,Research
+863,Burton-Brooks,Cambodia,Kampot,10.569822922863475,104.12349847195657,Diagnostics
+864,Schultz Inc,Cambodia,Kampot,10.656941865455927,104.19692663582097,Treatment
+865,Robertson-Ramirez,Cambodia,Kampot,10.56950746137942,104.16087495045997,Treatment
+866,Gibson-Freeman,Cambodia,Kampot,10.653836944588651,104.19497908829626,Treatment
+867,"Smith, Schroeder and Oconnor",Cambodia,Kampot,10.594041515216453,104.12502075005435,Research
+868,"Stanton, Reid and Terry",Cambodia,Kampot,10.622788989085697,104.13629234704351,Treatment
+869,Flynn Group,Lao,Vientiane,17.94244605297584,102.62254673561863,Diagnostics
+870,Donaldson and Sons,Lao,Vientiane,17.954899317053677,102.60067445242943,Diagnostics
+871,Adams-Clayton,Lao,Vientiane,18.008492127608598,102.62042999824132,Treatment
+872,Kelley-Anderson,Lao,Vientiane,18.019335957398134,102.62169207307737,Diagnostics
+873,Kramer-Shannon,Lao,Vientiane,17.985968747016607,102.65835268753284,Research
+874,Williams Ltd,Lao,Vientiane,17.960361547741687,102.58419277657667,Diagnostics
+875,Smith-Noble,Lao,Vientiane,18.000915877298997,102.59463589084932,Diagnostics
+876,Alexander Inc,Lao,Vientiane,17.98316656504988,102.63021811296915,Diagnostics
+877,Harris-Barker,Lao,Vientiane,17.962310986758222,102.66328397112329,Research
+878,Khan LLC,Lao,Vientiane,18.00724445940309,102.62445227508285,Diagnostics
+879,Baxter LLC,Lao,Luang Prabang,19.882296832978234,102.09032623241335,Research
+880,Pena LLC,Lao,Luang Prabang,19.879039375230658,102.1258783355772,Diagnostics
+881,Watson Ltd,Lao,Luang Prabang,19.845748505214996,102.1522879935616,Research
+882,Williams Ltd,Lao,Luang Prabang,19.92937468942104,102.11783271271372,Treatment
+883,Barber-Fischer,Lao,Luang Prabang,19.86136199904205,102.11834456193596,Research
+884,Rios-Padilla,Lao,Luang Prabang,19.91645596694197,102.08782419014184,Diagnostics
+885,Lewis Inc,Lao,Luang Prabang,19.870911380075515,102.15942945387283,Diagnostics
+886,Wheeler PLC,Lao,Luang Prabang,19.872808548226903,102.14122774502829,Treatment
+887,"Wallace, Smith and Cooper",Lao,Luang Prabang,19.92300005929558,102.12778440582701,Research
+888,Mcneil Group,Lao,Luang Prabang,19.855842742424034,102.16291928027974,Treatment
+889,"Anderson, Jones and Reyes",Lao,Luang Prabang,19.900645000844523,102.17331791148852,Research
+890,"Shaffer, Garcia and Richardson",Lao,Luang Prabang,19.836100181774714,102.14351290418402,Treatment
+891,Taylor-Ayala,Lao,Luang Prabang,19.88908704867017,102.08712461344585,Research
+892,May Ltd,Lao,Luang Prabang,19.935219701757998,102.15542447670711,Research
+893,Jones PLC,Lao,Luang Prabang,19.858870801116584,102.11132952580758,Diagnostics
+894,Bishop and Sons,Lao,Pakse,15.098517740423876,105.75464194672873,Research
+895,Bell-Lewis,Lao,Pakse,15.116139048631183,105.8316259928605,Research
+896,"Hernandez, Jenkins and Parks",Lao,Pakse,15.15812501420108,105.82321160203642,Diagnostics
+897,Miller Inc,Lao,Pakse,15.108479700075828,105.76228828902846,Treatment
+898,Goodwin PLC,Lao,Pakse,15.164816550553828,105.83752885164607,Treatment
+899,"Cruz, Richmond and Edwards",Lao,Pakse,15.106529407823611,105.8507118087312,Diagnostics
+900,Wright Ltd,Lao,Pakse,15.080548028557557,105.8368705002823,Research
+901,Wright PLC,Lao,Pakse,15.123206722687522,105.75536698843156,Treatment
+902,"Griffith, Mitchell and Pugh",Lao,Pakse,15.146705317542862,105.7829595458306,Treatment
+903,Abbott Ltd,Lao,Pakse,15.126184224434136,105.8399097630827,Treatment
+904,Harris-Lawson,Lao,Pakse,15.132077973607743,105.8453379583423,Treatment
+905,Adkins LLC,Lao,Pakse,15.132550843891575,105.81594443298272,Treatment
+906,"Brown, Hurst and Blevins",Lao,Pakse,15.134558108180617,105.81935205152693,Treatment
+907,Cruz-Allen,Lao,Pakse,15.167159800584345,105.81422631409374,Research
+908,"Wheeler, Rice and Levine",Lao,Savannakhet,16.54569144080779,104.7891388525884,Research
+909,Peck-Anderson,Lao,Savannakhet,16.5404078443692,104.72576647838709,Treatment
+910,"Fisher, Payne and Thompson",Lao,Savannakhet,16.528266137154507,104.71607857481348,Diagnostics
+911,Best-Townsend,Lao,Savannakhet,16.551061033955524,104.76730937520314,Research
+912,Matthews Inc,Lao,Savannakhet,16.571721143995436,104.75551753703976,Research
+913,Lewis-Livingston,Lao,Savannakhet,16.532419102622285,104.70253029051068,Treatment
+914,Hunter-Fuller,Lao,Savannakhet,16.52837485487203,104.74422573097168,Diagnostics
+915,"Wang, Henderson and Morales",Lao,Savannakhet,16.595665977078713,104.72871072179527,Treatment
+916,"Herrera, Jensen and Ramirez",Lao,Savannakhet,16.572576709634486,104.71838301022125,Research
+917,Miller-Mccall,Lao,Savannakhet,16.55901458474433,104.73528871842912,Treatment
+918,Herrera Group,Lao,Xam Neua,20.46209211240606,104.00601650056046,Treatment
+919,"Walters, Davenport and Becker",Lao,Xam Neua,20.412894153888825,104.02912827103526,Diagnostics
+920,Collins Group,Lao,Xam Neua,20.41871531015401,104.0852225826357,Diagnostics
+921,"Ashley, Allen and Sanchez",Lao,Xam Neua,20.447896448982906,104.0680223024603,Diagnostics
+922,Wilson-Salazar,Lao,Xam Neua,20.430304768765776,104.09033595286718,Treatment
+923,Parker Ltd,Lao,Xam Neua,20.436670231191627,104.04823200962598,Treatment
+924,"Yang, Wilson and Zimmerman",Lao,Xam Neua,20.46390720238152,104.01869698591501,Treatment
+925,"Smith, Crawford and Reed",Lao,Thakhek,17.387835176881513,104.81571789432395,Diagnostics
+926,"Logan, Le and Jackson",Lao,Thakhek,17.37387814180425,104.80542251844287,Research
+927,Brady LLC,Lao,Thakhek,17.446032847737527,104.87999774013716,Treatment
+928,"Tanner, Wise and Johnson",Lao,Thakhek,17.436488225161682,104.82906192378121,Treatment
+929,Nelson-Brown,Lao,Thakhek,17.38281933174592,104.87554361723019,Treatment
+930,"Proctor, Burton and Crawford",Lao,Thakhek,17.411191841379164,104.86442088717108,Research
+931,"Ward, Porter and Bradley",Lao,Thakhek,17.383313540832813,104.87945116994659,Research
+932,Moore-Ayala,Lao,Thakhek,17.452101287811363,104.83420344753175,Research
+933,"Craig, Wilson and Yang",Lao,Thakhek,17.39427050579294,104.83226886317193,Diagnostics
+934,Williams Inc,Lao,Thakhek,17.44383658007359,104.85890943794261,Diagnostics
+935,Williams LLC,Lao,Thakhek,17.39500657025829,104.81243515769053,Diagnostics
+936,Mora-White,Lao,Thakhek,17.43428262876329,104.86874126031498,Research
+937,Tran Ltd,Lao,Thakhek,17.406615393420445,104.79266703611621,Research
+938,"Rios, Walker and Wright",Lao,Thakhek,17.388366975112326,104.83277517143931,Diagnostics
+939,"Flores, Mckenzie and Duncan",Lao,Muang Xay,20.707930815169746,101.9626717361288,Treatment
+940,Shaw Inc,Lao,Muang Xay,20.694728738597416,101.97178098563248,Treatment
+941,Walker PLC,Lao,Muang Xay,20.695311494979904,102.02493451811478,Treatment
+942,Finley Inc,Lao,Muang Xay,20.691131966556366,101.98965573042824,Diagnostics
+943,Cline-Ayala,Lao,Muang Xay,20.672154227056303,101.97479624098237,Research
+944,Murphy-Tran,Lao,Muang Xay,20.675865274550457,101.99704144248358,Diagnostics
+945,Wood LLC,Lao,Muang Xay,20.694081572983,102.00118370288739,Diagnostics
+946,"Mueller, Stevenson and Sanchez",Lao,Muang Xay,20.685341716140837,102.02808982542608,Treatment
+947,Vargas-Snyder,Lao,Muang Xay,20.70184927405496,102.00458110798708,Research
+948,Oconnor PLC,Lao,Muang Xay,20.716542772564967,101.96941734788054,Treatment
+949,Hernandez Group,Lao,Phonsavan,19.487582298162838,103.1871379188602,Research
+950,Hall LLC,Lao,Phonsavan,19.46471513726599,103.19355157650922,Research
+951,"Franco, Wiley and Tapia",Lao,Phonsavan,19.435724132612595,103.17666197754188,Research
+952,Blake Group,Lao,Phonsavan,19.447995171332472,103.18361148672953,Treatment
+953,"Acosta, Garcia and Moreno",Lao,Phonsavan,19.460323583654798,103.26161472427391,Diagnostics
+954,Barnes Inc,Lao,Phonsavan,19.475946352931604,103.1701050498668,Research
+955,Dawson Inc,Lao,Phonsavan,19.422133361565404,103.20426227091464,Diagnostics
+956,Morse PLC,Lao,Phonsavan,19.438549650933993,103.22162913999021,Research
+957,Haynes-Watson,Lao,Phonsavan,19.429732715011838,103.2482940159368,Treatment
+958,"Miller, Davis and Anderson",Lao,Phonsavan,19.461854068548295,103.23740992573937,Research
+959,Jones-Bradley,Lao,Phonsavan,19.499516097235222,103.25206115574335,Treatment
+960,Bates-Anderson,Lao,Vang Vieng,18.94927249621282,102.48031693813944,Diagnostics
+961,Green-Edwards,Lao,Vang Vieng,18.92140108610917,102.49453491199085,Research
+962,Haynes-Moss,Lao,Vang Vieng,18.95809506028685,102.44264523979977,Treatment
+963,Chavez-Hall,Lao,Vang Vieng,18.974071600732714,102.44876725507793,Diagnostics
+964,Taylor PLC,Lao,Vang Vieng,18.977004757226645,102.44813219811665,Diagnostics
+965,Moore and Sons,Lao,Attapeu,14.841971753083586,106.86701343323504,Diagnostics
+966,Owens-Russell,Lao,Attapeu,14.83635026301496,106.81593800553233,Research
+967,"Howard, Townsend and Hayes",Lao,Attapeu,14.786929653792372,106.81052871929784,Treatment
+968,Baker-Wilson,Lao,Attapeu,14.841813227691583,106.844599053326,Diagnostics
+969,Aguirre LLC,Lao,Attapeu,14.83410202265149,106.79763731066248,Diagnostics
+970,"Terry, Williams and Huff",Lao,Attapeu,14.765983794433124,106.88524417137654,Research
+971,Hernandez-Dawson,Lao,Attapeu,14.800084702235209,106.8691114032809,Treatment
+972,Foster-Williams,Lao,Attapeu,14.852161281948758,106.8624338184988,Research
+973,Green-Ewing,Lao,Attapeu,14.81600996997562,106.87901243674514,Treatment
+974,Crane Group,Lao,Attapeu,14.772779377330256,106.83338377077418,Treatment
+975,"Adkins, Wright and Murray",Lao,Attapeu,14.84819102211919,106.8707990368747,Diagnostics
+976,Martinez Inc,Lao,Attapeu,14.82385343719134,106.81032426140364,Diagnostics
+977,Anderson Group,Lao,Attapeu,14.789205452971828,106.81876798623631,Research
+978,Parks-Pace,Myanmar,Yangon,16.834278419685088,96.16025146975772,Diagnostics
+979,Aguilar LLC,Myanmar,Yangon,16.80855427233154,96.17706177431808,Diagnostics
+980,Johnson Inc,Myanmar,Yangon,16.843620913715146,96.13264700194104,Research
+981,Orr Group,Myanmar,Yangon,16.82286896367225,96.21088443776192,Diagnostics
+982,Davis LLC,Myanmar,Yangon,16.855215850440736,96.16142110912583,Treatment
+983,Williams Group,Myanmar,Yangon,16.846227511222857,96.15715642361012,Diagnostics
+984,Jackson PLC,Myanmar,Yangon,16.878772524868925,96.21100562441963,Treatment
+985,Underwood-Foster,Myanmar,Yangon,16.82310432024664,96.15852373020631,Treatment
+986,Reyes Group,Myanmar,Yangon,16.879342287579764,96.16122680926343,Research
+987,Gomez and Sons,Myanmar,Yangon,16.863423436412962,96.2050833027565,Treatment
+988,Ramirez-Stephenson,Myanmar,Mandalay,21.940675231602278,96.0895454751197,Diagnostics
+989,Mendez PLC,Myanmar,Mandalay,21.933931974097195,96.11803273492342,Treatment
+990,Holland Group,Myanmar,Mandalay,21.958337140812507,96.12036533983384,Treatment
+991,Andrade-Mendoza,Myanmar,Mandalay,21.90532187689933,96.13863617158852,Treatment
+992,Ramirez and Sons,Myanmar,Mandalay,21.8820803065247,96.11876605601013,Treatment
+993,Gonzalez-Wilkerson,Myanmar,Mandalay,21.883151338612045,96.12190951263914,Diagnostics
+994,"Wright, Mcknight and Stephens",Myanmar,Mandalay,21.90005243398274,96.12069203119336,Research
+995,Mayo Ltd,Myanmar,Naypyidaw,19.780586353837013,96.09375041749121,Treatment
+996,Castillo-Harrington,Myanmar,Naypyidaw,19.807112998530265,96.08298872314519,Treatment
+997,Durham-Shaw,Myanmar,Naypyidaw,19.721207553205375,96.12828495640218,Treatment
+998,Nelson-Johnson,Myanmar,Naypyidaw,19.731723831743015,96.08399535712155,Research
+999,"Robinson, Huang and Osborne",Myanmar,Naypyidaw,19.74916407078892,96.06367209740037,Diagnostics
+1000,Stokes Group,Myanmar,Naypyidaw,19.76690565337307,96.12789815441589,Diagnostics
+1001,"Howard, Silva and Hall",Myanmar,Naypyidaw,19.778316883114982,96.05105180380274,Research
+1002,Garcia Ltd,Myanmar,Naypyidaw,19.720021441660176,96.0751501752323,Treatment
+1003,Adams Ltd,Myanmar,Naypyidaw,19.781903524212886,96.10284906040621,Diagnostics
+1004,Gallagher and Sons,Myanmar,Naypyidaw,19.741168184506154,96.10244090303063,Diagnostics
+1005,"Bradford, Salinas and Kelly",Myanmar,Naypyidaw,19.749242438128643,96.05971378751438,Treatment
+1006,Thompson PLC,Myanmar,Naypyidaw,19.792775963780834,96.06366125893777,Research
+1007,Drake-Wolfe,Myanmar,Naypyidaw,19.78387795515063,96.09317496046317,Diagnostics
+1008,"Johnson, Haynes and Meza",Myanmar,Naypyidaw,19.733067164100508,96.0399253336795,Research
+1009,"Thomas, Vaughan and Copeland",Myanmar,Naypyidaw,19.771839524708152,96.08173836153586,Diagnostics
+1010,Weaver-Thompson,Myanmar,Bago,17.35559307509007,96.53516407866329,Diagnostics
+1011,Davis and Sons,Myanmar,Bago,17.30321873962351,96.51303583439675,Research
+1012,"Robinson, Fox and Smith",Myanmar,Bago,17.290505691468695,96.47021143814911,Treatment
+1013,"Harris, Anderson and Love",Myanmar,Bago,17.329081759935676,96.52316506321527,Treatment
+1014,Brown-Hernandez,Myanmar,Bago,17.352799831169282,96.54027232480075,Diagnostics
+1015,"Stark, Schroeder and Mathis",Myanmar,Bago,17.345657960752693,96.52204084169881,Research
+1016,Yu-Brooks,Myanmar,Bago,17.374948668809296,96.45328682652367,Diagnostics
+1017,"Foster, Garcia and Turner",Myanmar,Mawlamyine,16.488832086652494,97.57623077189302,Research
+1018,Daugherty Ltd,Myanmar,Mawlamyine,16.46136118836068,97.64112108308268,Treatment
+1019,Conner-Yu,Myanmar,Mawlamyine,16.480509238468713,97.59706826563738,Research
+1020,"Stewart, Mann and Hoffman",Myanmar,Mawlamyine,16.49430235410911,97.5824821914401,Diagnostics
+1021,"Buchanan, Walker and Chapman",Myanmar,Mawlamyine,16.45416632054094,97.63780004601144,Diagnostics
+1022,Gray Ltd,Myanmar,Mawlamyine,16.47289140031154,97.5934832264247,Treatment
+1023,"Phillips, Thompson and Smith",Myanmar,Mawlamyine,16.513625587872628,97.66929148854825,Diagnostics
+1024,"Fry, Myers and Gamble",Myanmar,Mawlamyine,16.483140337577442,97.62042587590285,Treatment
+1025,"Johnson, Guzman and Mccall",Myanmar,Pathein,16.813556211645295,94.71674339737781,Diagnostics
+1026,"Walker, Cunningham and Zuniga",Myanmar,Pathein,16.806543807190895,94.73477620712048,Diagnostics
+1027,Rivera Inc,Myanmar,Pathein,16.821055154840796,94.72289344420913,Diagnostics
+1028,Reed LLC,Myanmar,Pathein,16.78733235797537,94.71920015871095,Research
+1029,Fields Inc,Myanmar,Pathein,16.77789831125906,94.69102559087695,Research
+1030,"Santiago, Daniel and Rogers",Myanmar,Taunggyi,20.836011895456792,97.07953627436247,Treatment
+1031,Baker and Sons,Myanmar,Taunggyi,20.829667986115737,96.99021596586819,Research
+1032,"Jones, Scott and Rodriguez",Myanmar,Taunggyi,20.815126428136292,97.06090433637938,Research
+1033,Williams Group,Myanmar,Taunggyi,20.74889242426132,97.07883496450518,Diagnostics
+1034,"Barnes, Jackson and Gutierrez",Myanmar,Taunggyi,20.799891159962915,97.00763807431964,Research
+1035,Bell-Bennett,Myanmar,Taunggyi,20.827946609585013,97.07712136517586,Treatment
+1036,Kramer-Lane,Myanmar,Taunggyi,20.788098891398022,97.0677936759687,Research
+1037,"Perez, Hayes and Lloyd",Myanmar,Taunggyi,20.81049273179168,97.07420452546381,Treatment
+1038,Phillips LLC,Myanmar,Taunggyi,20.7613364907285,96.99862373858164,Diagnostics
+1039,Lynn-Jones,Myanmar,Taunggyi,20.781914618738046,97.03755906131389,Research
+1040,Barron and Sons,Myanmar,Taunggyi,20.754901633780378,97.08247503040799,Research
+1041,"Jones, Mcmahon and Spence",Myanmar,Taunggyi,20.76747248382919,97.01446252129014,Treatment
+1042,Wheeler-Austin,Myanmar,Taunggyi,20.81092102987489,97.07924447815442,Diagnostics
+1043,Bush-Reynolds,Myanmar,Taunggyi,20.744260307333256,96.99502761184164,Research
+1044,"Martin, Preston and Moore",Myanmar,Taunggyi,20.79982005557546,97.03683064293703,Diagnostics
+1045,Rivera and Sons,Myanmar,Sittwe,20.118982654820613,92.94267320734897,Treatment
+1046,Terry-Bowen,Myanmar,Sittwe,20.162349774906513,92.9078384427189,Treatment
+1047,"Fernandez, Guerrero and Evans",Myanmar,Sittwe,20.17002913617989,92.9098206365996,Diagnostics
+1048,Williams PLC,Myanmar,Sittwe,20.15497282076867,92.91662766036212,Diagnostics
+1049,"Larsen, Hernandez and Ward",Myanmar,Sittwe,20.157740983949267,92.94310936813497,Treatment
+1050,Miller-Colon,Myanmar,Sittwe,20.170761282871457,92.91190017269747,Research
+1051,"Greene, Gonzalez and Johnson",Myanmar,Monywa,22.11664638407965,95.14132918115683,Treatment
+1052,Little Inc,Myanmar,Monywa,22.085854738970777,95.09143761747383,Research
+1053,Anthony-Parker,Myanmar,Monywa,22.06999931047332,95.1840938117208,Diagnostics
+1054,Ruiz-Jacobson,Myanmar,Monywa,22.14026422719473,95.08685976619836,Diagnostics
+1055,Davis-Stephens,Myanmar,Monywa,22.07010240458674,95.16570067810466,Research
+1056,Watson Group,Myanmar,Monywa,22.101697533867767,95.11092896737549,Diagnostics
+1057,Lopez-Williams,Myanmar,Monywa,22.141463382037685,95.15249610484386,Diagnostics
+1058,Marshall-Perez,Myanmar,Monywa,22.062854222089083,95.14958904733658,Treatment
+1059,Elliott-Hernandez,Myanmar,Monywa,22.106613881933395,95.13403319223613,Research
+1060,"Contreras, Miller and Cooper",Myanmar,Monywa,22.080543320371735,95.12286557774335,Diagnostics
+1061,"Gutierrez, Avila and Perez",Myanmar,Pyin Oo Lwin,22.009058698791765,96.47590041400002,Treatment
+1062,Randall PLC,Myanmar,Pyin Oo Lwin,22.018812301927227,96.505404870076,Research
+1063,Sheppard-Mcdaniel,Myanmar,Pyin Oo Lwin,22.037458320322273,96.49923676810701,Research
+1064,Armstrong-Young,Myanmar,Pyin Oo Lwin,22.058706669249926,96.4842392610158,Treatment
+1065,Miller-Orr,Myanmar,Pyin Oo Lwin,21.994170546433406,96.43610428499088,Research
+1066,"Johnson, Duncan and Black",Myanmar,Pyin Oo Lwin,22.036615836080248,96.42839499981986,Diagnostics
+1067,"Byrd, Oliver and Martinez",Myanmar,Pyin Oo Lwin,22.085088470032048,96.47469300491467,Treatment
+1068,Thompson-Joyce,Myanmar,Pyin Oo Lwin,22.030390548223572,96.49301342806463,Treatment
+1069,Stokes and Sons,Myanmar,Pyin Oo Lwin,22.082337123543702,96.41929763447156,Treatment
+1070,Henderson Ltd,Myanmar,Pyin Oo Lwin,22.054666939741477,96.49959908247479,Research
+1071,Harris-Carson,Myanmar,Pyin Oo Lwin,22.052429426697145,96.46380809640088,Diagnostics
