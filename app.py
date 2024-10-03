@@ -150,6 +150,23 @@ def main():
     fig_stacked_bar.update_layout(xaxis_title='Country', yaxis_title='Number of Partners')
     
     st.plotly_chart(fig_stacked_bar, use_container_width=True)
+
+
+
+    st.subheader('Disease Distribution by Country')
+    
+    disease_country_dist = filtered_partners.groupby(['Country', 'Disease']).size().reset_index(name='Count')
+    
+    fig_stacked_bar = px.bar(
+        disease_country_dist,
+        x='Country',
+        y='Count',
+        color='Disease',
+        text='Count'
+    )
+    fig_stacked_bar.update_layout(xaxis_title='Country', yaxis_title='Disease Distribution')
+    
+    st.plotly_chart(fig_stacked_bar, use_container_width=True)
     
     
 
