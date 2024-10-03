@@ -37,11 +37,17 @@ filtered_disease = disease_df[
 ]
 
 def main():
+
+    # tables
+    st.subheader('Partner Details')
+    
+    st.dataframe(filtered_partners[['Partner ID', 'Name', 'Country', 'City', 'Specialization']])
+    
     #Visualizations
     st.title('NTD Partners and Disease Occurrence Dashboard')
     
     # Create columns for layout
-    col1, col2 = st.columns((2, 1))
+    col1, col2 = st.columns((1, 2))
     
     with col1:
         st.subheader('Healthcare Partners Map')
@@ -145,10 +151,7 @@ def main():
     
     st.plotly_chart(fig_stacked_bar, use_container_width=True)
     
-    # tables
-    st.subheader('Partner Details')
     
-    st.dataframe(filtered_partners[['Partner ID', 'Name', 'Country', 'City', 'Specialization']])
 
 
 if __name__ == '__main__':
